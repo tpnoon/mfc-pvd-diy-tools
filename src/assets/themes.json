@@ -1,0 +1,97 @@
+{
+  "description": "Preset themes. Each theme defines weighted tag preferences. AnalysisEngine multiplies these against fund tags.",
+  "themes": [
+    {
+      "id": "ai_tech",
+      "name": "AI / Tech Revolution",
+      "icon": "ai",
+      "summary": "เน้นกลุ่มเทคโนโลยี AI / cloud / semiconductor — ระยะ 4-10 ปี",
+      "tag_weights": {
+        "TECH": 3,
+        "EQUITY_US": 2,
+        "EQUITY_GLOBAL": 1,
+        "EQUITY_ASIA": 1,
+        "EQUITY_INDIA": 1,
+        "MONEY_MARKET": -2,
+        "BOND_TH": -1
+      },
+      "max_equity_pct": 80,
+      "min_hedge_pct": 10
+    },
+    {
+      "id": "global_growth",
+      "name": "Global Growth (Diversified)",
+      "icon": "globe",
+      "summary": "กระจายการลงทุนทั่วโลก — สหรัฐฯ + ยุโรป + เอเชีย + EM อย่างสมดุล",
+      "tag_weights": {
+        "EQUITY_GLOBAL": 3,
+        "EQUITY_US": 2,
+        "EQUITY_EU": 1,
+        "EQUITY_ASIA": 1,
+        "EQUITY_EM": 1,
+        "EQUITY_INDIA": 1,
+        "TECH": 1,
+        "BOND_TH": -1,
+        "MONEY_MARKET": -2
+      },
+      "max_equity_pct": 75,
+      "min_hedge_pct": 10
+    },
+    {
+      "id": "geopolitical_hedge",
+      "name": "Geopolitical Hedge (War / Oil)",
+      "icon": "war",
+      "summary": "ความเสี่ยงสงคราม + น้ำมันแพง — เน้นทอง + พันธบัตร + พลังงาน",
+      "tag_weights": {
+        "COMMODITY_GOLD": 3,
+        "BOND_TH": 2,
+        "BOND_GLOBAL": 2,
+        "ENERGY": 2,
+        "MIXED": 1,
+        "DIVIDEND": 1,
+        "EQUITY_US": -1,
+        "TECH": -1,
+        "EQUITY_EM": -1
+      },
+      "max_equity_pct": 50,
+      "min_hedge_pct": 25
+    },
+    {
+      "id": "income_dividend",
+      "name": "Income / Dividend Focus",
+      "icon": "bank",
+      "summary": "เน้นกระแสเงินสด — bond + หุ้นปันผล + REIT ลดความผันผวน",
+      "tag_weights": {
+        "BOND_TH": 3,
+        "BOND_GLOBAL": 2,
+        "DIVIDEND": 3,
+        "REAL_ESTATE": 2,
+        "MIXED": 1,
+        "EQUITY_TH": 1,
+        "TECH": -2,
+        "EQUITY_EM": -1
+      },
+      "max_equity_pct": 35,
+      "min_hedge_pct": 25
+    },
+    {
+      "id": "conservative",
+      "name": "Conservative / Inflation Hedge",
+      "icon": "shield",
+      "summary": "เน้นเสถียรภาพ — bond + หุ้นไทยเด่นๆ + ผสม",
+      "tag_weights": {
+        "BOND_TH": 2,
+        "BOND_GLOBAL": 2,
+        "MIXED": 2,
+        "EQUITY_TH": 1,
+        "DIVIDEND": 1,
+        "MONEY_MARKET": 1,
+        "REAL_ESTATE": 1,
+        "TECH": -2,
+        "EQUITY_EM": -2
+      },
+      "max_equity_pct": 40,
+      "min_hedge_pct": 20
+    }
+  ]
+}

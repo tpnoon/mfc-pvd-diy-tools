@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Plan your MFC PVD — the DIY way</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--
+      Content-Security-Policy: restrict what the page can load. Explicit allowlist
+      for Google Fonts (CSS + WOFF2) and the twemoji CDN (SVG icons).
+      'unsafe-inline' on style-src is required by Angular emulated CSS encapsulation
+      and dynamic styles (e.g., chart canvases). 'unsafe-inline' on script-src is NOT
+      granted — Angular Ivy + AOT does not need it.
+    -->
+    <meta http-equiv="Content-Security-Policy" content="
+      default-src 'self';
+      img-src 'self' data: https://cdnjs.cloudflare.com;
+      font-src 'self' https://fonts.gstatic.com;
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      script-src 'self';
+      connect-src 'self';
+      object-src 'none';
+      base-uri 'self';
+      form-action 'self';
+      frame-ancestors 'none';
+    " />
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <app-root></app-root>
+  </body>
+</html>

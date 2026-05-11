@@ -1,0 +1,109 @@
+<div class="container">
+  <header class="app-header">
+    <div class="title-block">
+      <h1>{{ i18n.t('app.title') }}</h1>
+      <p class="subtitle">{{ i18n.t('app.subtitle') }}</p>
+      <p class="header-disclaimer">
+        <strong>{{ i18n.t('analysis.disclaimer') }}</strong>
+        {{ i18n.t('analysis.disclaimerText') }}
+      </p>
+    </div>
+    <div class="header-controls">
+      <!-- Language toggle -->
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button
+          type="button"
+          class="lang-btn"
+          [class.active]="i18n.lang() === 'en'"
+          [attr.aria-pressed]="i18n.lang() === 'en'"
+          (click)="i18n.set('en')">EN</button>
+        <button
+          type="button"
+          class="lang-btn"
+          [class.active]="i18n.lang() === 'th'"
+          [attr.aria-pressed]="i18n.lang() === 'th'"
+          (click)="i18n.set('th')">TH</button>
+      </div>
+      <button
+        type="button"
+        class="theme-toggle"
+        (click)="themeService.toggle()"
+        [attr.aria-label]="themeService.theme() === 'dark' ? i18n.t('theme.toggleToLight') : i18n.t('theme.toggleToDark')"
+        [title]="themeService.theme() === 'dark' ? i18n.t('theme.toggleToLight') : i18n.t('theme.toggleToDark')">
+        <svg *ngIf="themeService.theme() === 'light'" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z"/>
+        </svg>
+        <svg *ngIf="themeService.theme() === 'dark'" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4"/>
+          <path d="M12 3v2.25M12 18.75V21M5.636 5.636l1.591 1.591M16.773 16.773l1.591 1.591M3 12h2.25M18.75 12H21M5.636 18.364l1.591-1.591M16.773 7.227l1.591-1.591"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <app-static-overview></app-static-overview>
+
+  <ng-container *ngIf="loaded">
+    <div class="section-divider">
+      <span>{{ i18n.t('app.personalize') }}</span>
+    </div>
+    <app-portfolio-input
+      [fundOptions]="funds"
+      (portfolioChange)="onPortfolioChange($event)">
+    </app-portfolio-input>
+
+    <app-theme-selector
+      [availableFunds]="funds"
+      (themeChange)="onThemeChange($event)">
+    </app-theme-selector>
+
+    <div class="run-row" *ngIf="portfolio && theme">
+      <span class="run-status">
+        <span class="run-dot"></span>
+        <span class="dim run-label">{{ i18n.t('app.live') }}</span>
+      </span>
+      <span class="run-meta">
+        <span class="dim run-label">{{ i18n.t('app.strategy') }}</span>
+        <strong class="run-theme" [title]="theme.name">{{ theme.name }}</strong>
+        <span class="dim run-sep">·</span>
+        <span class="dim">{{ i18n.t('app.holdings') }} {{ portfolio.holdings.length }}</span>
+      </span>
+    </div>
+
+    <div *ngIf="!portfolio || !theme" class="prompt-banner">
+      <span>{{ !portfolio ? i18n.t('app.promptPortfolio') : i18n.t('app.promptStrategy') }}</span>
+    </div>
+
+    <app-analysis-output
+      *ngIf="result"
+      [result]="result"
+      [portfolio]="portfolio"
+      [funds]="funds"
+      [technicals]="technicals"
+      [constraints]="constraints"
+      [avgReturnByCode]="avgReturnByCode"
+      [currentHoldings]="currentHoldingsForChart">
+    </app-analysis-output>
+  </ng-container>
+
+  <div *ngIf="!loaded && !loadError" class="loading">{{ i18n.t('app.loading') }}</div>
+  <div *ngIf="loadError" class="load-error" role="alert">
+    <strong>{{ i18n.t('app.loadFailed') }}</strong> {{ i18n.t('app.loadFailedDetail') }}
+  </div>
+
+  <footer class="app-footer">
+    <div class="footer-line">
+      <span *ngIf="dataDate">
+        <strong>{{ i18n.t('footer.dataThrough') }}</strong> {{ dataDate }}
+      </span>
+      <span *ngIf="dataDate" class="footer-sep">·</span>
+      <span>{{ i18n.t('footer.source') }}</span>
+    </div>
+    <div class="footer-line dim">
+      {{ i18n.t('footer.unofficial') }}
+    </div>
+    <div class="footer-line dim">
+      © {{ buildYear }} · {{ i18n.t('footer.builtWith') }}
+    </div>
+  </footer>
+</div>

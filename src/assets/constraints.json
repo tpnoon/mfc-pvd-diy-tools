@@ -1,0 +1,17 @@
+{
+  "plan_name": "DIY",
+  "rules": [
+    { "id": "R1", "funds": ["MPF30"], "max_pct": 20, "label": "หุ้นเทคโนโลยีเอเชีย" },
+    { "id": "R2", "funds": ["MPF15"], "max_pct": 20, "label": "หุ้นเทคโนโลยี" },
+    { "id": "R3", "funds": ["MPF17"], "max_pct": 20, "label": "หุ้นพลังงานยั่งยืน" },
+    { "id": "R4", "funds": ["MPF31"], "max_pct": 20, "label": "หุ้นสุขภาพ" },
+    { "id": "R5", "funds": ["MPF15", "MPF17", "MPF30", "MPF31"], "max_pct": 20, "label": "Tech + พลังงาน + สุขภาพ รวมกัน" },
+    { "id": "R6", "funds": ["MPF20"], "max_pct": 50, "label": "ตราสารหนี้ในและต่างประเทศ" },
+    { "id": "R7", "funds": ["MPF09", "MPF13", "MPF32"], "max_pct": 25, "label": "อสังหาริมทรัพย์ รวมกัน" },
+    { "id": "R8", "funds": ["MPF07"], "max_pct": 10, "label": "ทองคำ" },
+    { "id": "R9", "funds": ["MPF07", "MPF09", "MPF13", "MPF20", "MPF32"], "max_pct": 25, "label": "ทองคำ + อสังหาฯ + ตราสารหนี้ต่างประเทศ รวมกัน" },
+    { "id": "R10", "funds": ["MPF09"], "max_pct": 25, "label": "อสังหาริมทรัพย์ในประเทศ" },
+    { "id": "R11", "funds": ["MPF13"], "max_pct": 25, "label": "อสังหาริมทรัพย์ในและต่างประเทศ" },
+    { "id": "R12", "funds": ["MPF32"], "max_pct": 25, "label": "อสังหาริมทรัพย์ทั่วโลก" }
+  ]
+}

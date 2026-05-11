@@ -1,0 +1,447 @@
+/* =========================================================
+   Apple-grade design tokens — finance dashboard
+   Light + dark, SF Pro typography, hairline separators
+   ========================================================= */
+
+:root {
+  /* ---------- Surfaces (Apple light) ---------- */
+  --bg:             #F5F5F7;          /* apple.com page bg */
+  --surface:        #FFFFFF;
+  --surface-2:      #FBFBFD;          /* subtle elevation */
+  --surface-sunken: #EDEDEF;          /* deeper inset */
+
+  /* Hairline separators (Apple uses translucent black/white) */
+  --border:         rgba(60, 60, 67, 0.10);
+  --border-strong:  rgba(60, 60, 67, 0.18);
+
+  /* ---------- Text (Apple labels) ---------- */
+  --text:           #1D1D1F;          /* apple primary label */
+  --text-muted:     #6E6E73;          /* apple secondary label */
+  --text-dim:       #86868B;          /* apple tertiary label */
+  --text-on-accent: #FFFFFF;
+
+  /* ---------- Accent (Apple system blue) ---------- */
+  --accent:         #0071E3;          /* apple.com brand blue */
+  --accent-hover:   #0077ED;
+  --accent-pressed: #006EDB;
+  --accent-soft:    #EAF2FE;
+  --accent-text:    #0058B3;
+  --accent-border:  rgba(0, 113, 227, 0.30);
+  --accent-ring:    rgba(0, 113, 227, 0.20);
+
+  /* ---------- Semantic (Apple system colors, light) ---------- */
+  --success:        #1F9D55;          /* refined emerald */
+  --success-soft:   #E6F6EC;
+  --success-text:   #14693A;
+  --success-border: rgba(31, 157, 85, 0.25);
+
+  --danger:         #E5484D;          /* apple system red, refined */
+  --danger-soft:    #FCEEEE;
+  --danger-text:    #B0282C;
+  --danger-border:  rgba(229, 72, 77, 0.28);
+
+  --warning:        #C76A00;          /* warmer than amber, more apple */
+  --warning-soft:   #FFF3E0;
+  --warning-text:   #884700;
+  --warning-border: rgba(199, 106, 0, 0.25);
+
+  --info:           #0071E3;
+  --info-soft:      #EAF2FE;
+  --info-text:      #0058B3;
+  --info-border:    rgba(0, 113, 227, 0.28);
+
+  --orange:         #DC5800;
+  --orange-soft:    #FFEEDD;
+  --orange-text:    #8F3900;
+  --orange-border:  rgba(220, 88, 0, 0.25);
+
+  --disabled-bg:    #E8E8ED;
+  --disabled-text:  #AEAEB2;
+
+  /* ---------- Tooltip ---------- */
+  --tooltip-bg:     rgba(29, 29, 31, 0.94);
+  --tooltip-text:   #FFFFFF;
+  --tooltip-muted:  rgba(255, 255, 255, 0.80);
+  --tooltip-border: rgba(255, 255, 255, 0.10);
+
+  /* ---------- Radius (Apple corner radii) ---------- */
+  --radius-xs:    4px;
+  --radius-sm:    8px;
+  --radius:      10px;
+  --radius-lg:   14px;
+  --radius-xl:   20px;
+  --radius-pill: 980px;
+
+  /* ---------- Shadows (Apple barely uses shadow; minimal elevation) ---------- */
+  --shadow-sm:  0 1px 1px rgba(0, 0, 0, 0.03);
+  --shadow:     0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.03);
+  --shadow-lg:  0 8px 24px rgba(0, 0, 0, 0.06), 0 2px 6px rgba(0, 0, 0, 0.04);
+
+  /* ---------- Motion ---------- */
+  --ease:       cubic-bezier(0.4, 0.0, 0.2, 1);
+  --ease-out:   cubic-bezier(0.16, 1, 0.3, 1);
+  --duration:   220ms;
+}
+
+/* ---------- Dark mode (Apple dark) ---------- */
+:root[data-theme="dark"] {
+  --bg:             #000000;          /* apple.com dark uses pure black */
+  --surface:        #1D1D1F;          /* primary card on dark */
+  --surface-2:      #2C2C2E;          /* elevated card */
+  --surface-sunken: #161618;
+
+  --border:         rgba(255, 255, 255, 0.08);
+  --border-strong:  rgba(255, 255, 255, 0.16);
+
+  --text:           #F5F5F7;
+  --text-muted:     #A1A1A6;
+  --text-dim:       #86868B;
+  --text-on-accent: #FFFFFF;
+
+  --accent:         #2997FF;          /* apple.com dark brand */
+  --accent-hover:   #5AB1FF;
+  --accent-pressed: #2086E8;
+  --accent-soft:    rgba(41, 151, 255, 0.14);
+  --accent-text:    #5AB1FF;
+  --accent-border:  rgba(41, 151, 255, 0.30);
+  --accent-ring:    rgba(41, 151, 255, 0.30);
+
+  --success:        #30D158;
+  --success-soft:   rgba(48, 209, 88, 0.14);
+  --success-text:   #4FE077;
+  --success-border: rgba(48, 209, 88, 0.30);
+
+  --danger:         #FF453A;
+  --danger-soft:    rgba(255, 69, 58, 0.14);
+  --danger-text:    #FF6B61;
+  --danger-border:  rgba(255, 69, 58, 0.30);
+
+  --warning:        #FF9F0A;
+  --warning-soft:   rgba(255, 159, 10, 0.14);
+  --warning-text:   #FFB340;
+  --warning-border: rgba(255, 159, 10, 0.30);
+
+  --info:           #2997FF;
+  --info-soft:      rgba(41, 151, 255, 0.14);
+  --info-text:      #5AB1FF;
+  --info-border:    rgba(41, 151, 255, 0.28);
+
+  --orange:         #FF9500;
+  --orange-soft:    rgba(255, 149, 0, 0.14);
+  --orange-text:    #FFB340;
+  --orange-border:  rgba(255, 149, 0, 0.30);
+
+  --disabled-bg:    #2C2C2E;
+  --disabled-text:  #6E6E73;
+
+  --tooltip-bg:     rgba(245, 245, 247, 0.96);
+  --tooltip-text:   #1D1D1F;
+  --tooltip-muted:  rgba(29, 29, 31, 0.78);
+  --tooltip-border: rgba(0, 0, 0, 0.08);
+
+  --shadow-sm:  0 1px 2px rgba(0, 0, 0, 0.30);
+  --shadow:     0 4px 12px rgba(0, 0, 0, 0.40), 0 1px 2px rgba(0, 0, 0, 0.25);
+  --shadow-lg:  0 12px 36px rgba(0, 0, 0, 0.50), 0 4px 12px rgba(0, 0, 0, 0.30);
+}
+
+/* ---------- Reset ---------- */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* ---------- Base ---------- */
+html, body {
+  font-family:
+    -apple-system, BlinkMacSystemFont,
+    'SF Pro Display', 'SF Pro Text',
+    'Inter', 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    sans-serif;
+  background: var(--bg);
+  min-height: 100vh;
+  padding: 32px 24px;
+  color: var(--text);
+  font-size: 16px;
+  line-height: 1.47;
+  letter-spacing: -0.011em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'kern', 'liga', 'calt', 'ss01';
+  text-rendering: optimizeLegibility;
+  transition: background-color var(--duration) var(--ease), color var(--duration) var(--ease);
+}
+
+.container { max-width: 1240px; margin: 0 auto; }
+
+/* ---------- Typography (Apple HIG-inspired scale) ---------- */
+/* Large Title */
+h1 {
+  color: var(--text);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.0625;
+  letter-spacing: -0.022em;
+  margin-bottom: 8px;
+}
+/* Title 2 */
+h2 {
+  color: var(--text);
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.19;
+  letter-spacing: -0.014em;
+}
+/* Title 3 */
+h3 {
+  color: var(--text);
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.235;
+  letter-spacing: -0.011em;
+}
+/* Headline */
+h4 {
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: -0.01em;
+}
+
+p { font-size: 15px; line-height: 1.47; letter-spacing: -0.011em; }
+small { font-size: 12px; letter-spacing: -0.006em; }
+strong { font-weight: 600; }
+
+/* ---------- Cards ---------- */
+.section-card {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px 28px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow-sm);
+  transition: background-color var(--duration) var(--ease),
+              border-color var(--duration) var(--ease),
+              box-shadow var(--duration) var(--ease);
+}
+.section-title {
+  margin-bottom: 16px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+}
+.section-desc {
+  color: var(--text-muted);
+  margin-bottom: 14px;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: -0.008em;
+}
+
+/* ---------- Buttons (Apple pill style) ---------- */
+.btn {
+  background: var(--accent);
+  color: var(--text-on-accent);
+  border: 1px solid var(--accent);
+  padding: 9px 18px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.2;
+  letter-spacing: -0.011em;
+  transition: background-color 150ms var(--ease),
+              border-color 150ms var(--ease),
+              color 150ms var(--ease),
+              transform 150ms var(--ease);
+}
+.btn:hover {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+}
+.btn:active {
+  background: var(--accent-pressed);
+  border-color: var(--accent-pressed);
+  transform: scale(0.98);
+}
+.btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+.btn:disabled {
+  background: var(--disabled-bg);
+  border-color: var(--disabled-bg);
+  color: var(--disabled-text);
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  background: var(--surface);
+  color: var(--text);
+  border-color: var(--border-strong);
+}
+.btn-secondary:hover {
+  background: var(--surface-2);
+  border-color: var(--border-strong);
+  color: var(--text);
+}
+.btn-secondary:active { background: var(--surface-sunken); }
+
+.btn-danger { background: var(--danger); border-color: var(--danger); }
+.btn-danger:hover { filter: brightness(0.96); }
+
+.btn-success { background: var(--success); border-color: var(--success); }
+.btn-success:hover { filter: brightness(0.96); }
+
+.btn-large {
+  padding: 12px 24px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* ---------- Form controls ---------- */
+input, select, textarea {
+  font-family: inherit;
+  font-size: 14px;
+  letter-spacing: -0.011em;
+  color: var(--text);
+  background: var(--surface);
+  padding: 9px 12px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  outline: none;
+  transition: border-color 150ms var(--ease),
+              box-shadow 150ms var(--ease),
+              background-color var(--duration) var(--ease),
+              color var(--duration) var(--ease);
+}
+input:hover, select:hover, textarea:hover { border-color: var(--text-dim); }
+input:focus, select:focus, textarea:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-ring);
+}
+input::placeholder, textarea::placeholder { color: var(--text-dim); }
+textarea {
+  width: 100%;
+  min-height: 120px;
+  resize: vertical;
+  font-family: 'SF Mono', 'JetBrains Mono', 'Consolas', monospace;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+/* ---------- Tables ---------- */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  letter-spacing: -0.008em;
+}
+.data-table th, .data-table td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.data-table th {
+  background: transparent;
+  font-weight: 600;
+  color: var(--text-muted);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid var(--border-strong);
+}
+.data-table tr:hover td { background: var(--surface-2); }
+.center { text-align: center; }
+
+/* ---------- Tags ---------- */
+.tag {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: var(--radius-pill);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  margin: 2px;
+  border: 1px solid transparent;
+  line-height: 1.5;
+}
+.tag-green  { background: var(--success-soft); color: var(--success-text); border-color: var(--success-border); }
+.tag-red    { background: var(--danger-soft);  color: var(--danger-text);  border-color: var(--danger-border); }
+.tag-blue   { background: var(--info-soft);    color: var(--info-text);    border-color: var(--info-border); }
+.tag-orange { background: var(--orange-soft);  color: var(--orange-text);  border-color: var(--orange-border); }
+.tag-gold   { background: var(--warning-soft); color: var(--warning-text); border-color: var(--warning-border); }
+.tag-purple { background: var(--accent-soft);  color: var(--accent-text);  border-color: var(--accent-border); }
+
+/* ---------- Numeric helpers ---------- */
+.positive { color: var(--success); font-weight: 600; font-variant-numeric: tabular-nums; }
+.negative { color: var(--danger);  font-weight: 600; font-variant-numeric: tabular-nums; }
+.dim      { color: var(--text-dim); font-size: 13px; letter-spacing: -0.008em; }
+
+/* ---------- Severity stripes ---------- */
+.severity-high   { border-left: 3px solid var(--danger); }
+.severity-medium { border-left: 3px solid var(--warning); }
+.severity-low    { border-left: 3px solid var(--info); }
+
+/* ---------- RSI badges ---------- */
+/* Shared geometry; zone classes layer on colour. */
+.rsi-badge,
+.rsi-overbought,
+.rsi-oversold,
+.rsi-normal {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: var(--radius-pill);
+  font-size: 11.5px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.005em;
+}
+.rsi-overbought { background: var(--danger-soft);  color: var(--danger-text);  border-color: var(--danger-border);  }
+.rsi-oversold   { background: var(--info-soft);    color: var(--info-text);    border-color: var(--info-border);    }
+.rsi-normal     { background: var(--warning-soft); color: var(--warning-text); border-color: var(--warning-border); }
+
+/* ---------- Signal badges ---------- */
+.signal-strong-buy  { background: var(--success); color: #fff; }
+.signal-buy         { background: color-mix(in srgb, var(--success) 80%, white); color: #fff; }
+.signal-hold        { background: var(--warning); color: #fff; }
+.signal-sell        { background: var(--orange);  color: #fff; }
+.signal-strong-sell { background: var(--danger);  color: #fff; }
+.signal-badge {
+  padding: 4px 11px;
+  border-radius: var(--radius-pill);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  display: inline-block;
+}
+
+/* ---------- Action stripes ---------- */
+.action-buy     { border-left: 3px solid var(--success); }
+.action-sell    { border-left: 3px solid var(--danger); }
+.action-reduce  { border-left: 3px solid var(--orange); }
+.action-monitor { border-left: 3px solid var(--info); }
+.action-hold    { border-left: 3px solid var(--text-dim); }
+
+/* ---------- Selection ---------- */
+::selection { background: var(--accent-soft); color: var(--accent-text); }
+
+/* ---------- Scrollbar ---------- */
+::-webkit-scrollbar        { width: 10px; height: 10px; }
+::-webkit-scrollbar-track  { background: transparent; }
+::-webkit-scrollbar-thumb  { background: var(--border-strong); border-radius: 999px; border: 2px solid transparent; background-clip: content-box; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-dim); background-clip: content-box; }
+
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+
+/* ---------- Responsive scale ---------- */
+@media (max-width: 720px) {
+  html, body { padding: 20px 16px; font-size: 15px; }
+  h1 { font-size: 26px; letter-spacing: -0.018em; }
+  h2 { font-size: 19px; }
+  .section-card { padding: 18px 20px; }
+}

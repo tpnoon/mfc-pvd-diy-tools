@@ -1,0 +1,9738 @@
+{
+  "2019": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.1446
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.2043
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.3836
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.4811
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.6391
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.9099
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.1449
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.6598
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.742
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.8037
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.0262
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.2306
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.2416
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.3946
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.5852
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.7883
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.9678
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.1765
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.5025
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.9549
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.0885
+        },
+        {
+          "label": "ต.ค.",
+          "value": 2.2063
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.451
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.6936
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.6186
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.9889
+        },
+        {
+          "label": "มี.ค.",
+          "value": 3.4547
+        },
+        {
+          "label": "เม.ย.",
+          "value": 5.8415
+        },
+        {
+          "label": "พ.ค.",
+          "value": 3.5091
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 9.6802
+        },
+        {
+          "label": "ก.ค.",
+          "value": 8.471
+        },
+        {
+          "label": "ส.ค.",
+          "value": 6.8175
+        },
+        {
+          "label": "ก.ย.",
+          "value": 6.1793
+        },
+        {
+          "label": "ต.ค.",
+          "value": 6.0277
+        },
+        {
+          "label": "พ.ย.",
+          "value": 4.5953
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 4.0191
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0714
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.1667
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.2697
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.3844
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.4927
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.6023
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.7338
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.9092
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.9439
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.9417
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.0044
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.7403
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.0259
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.575
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.1615
+        },
+        {
+          "label": "เม.ย.",
+          "value": 2.6508
+        },
+        {
+          "label": "พ.ค.",
+          "value": 2.6745
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 3.3929
+        },
+        {
+          "label": "ก.ค.",
+          "value": 4.2189
+        },
+        {
+          "label": "ส.ค.",
+          "value": 4.5465
+        },
+        {
+          "label": "ก.ย.",
+          "value": 4.6665
+        },
+        {
+          "label": "ต.ค.",
+          "value": 4.6828
+        },
+        {
+          "label": "พ.ย.",
+          "value": 4.7715
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 5.2023
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 6.0664
+        },
+        {
+          "label": "ก.พ.",
+          "value": 10.5999
+        },
+        {
+          "label": "มี.ค.",
+          "value": 10.9352
+        },
+        {
+          "label": "เม.ย.",
+          "value": 15.1737
+        },
+        {
+          "label": "พ.ค.",
+          "value": 10.0997
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 12.3598
+        },
+        {
+          "label": "ก.ค.",
+          "value": 15.0292
+        },
+        {
+          "label": "ส.ค.",
+          "value": 10.6683
+        },
+        {
+          "label": "ก.ย.",
+          "value": 12.7463
+        },
+        {
+          "label": "ต.ค.",
+          "value": 13.3232
+        },
+        {
+          "label": "พ.ย.",
+          "value": 16.5324
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 19.0848
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.6832
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.4111
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.369
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.2596
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.365
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 6.0216
+        },
+        {
+          "label": "ก.ค.",
+          "value": 7.8159
+        },
+        {
+          "label": "ส.ค.",
+          "value": 15.0136
+        },
+        {
+          "label": "ก.ย.",
+          "value": 12.0182
+        },
+        {
+          "label": "ต.ค.",
+          "value": 10.8692
+        },
+        {
+          "label": "พ.ย.",
+          "value": 8.7052
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 11.3422
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.0522
+        },
+        {
+          "label": "ก.พ.",
+          "value": 4.6005
+        },
+        {
+          "label": "มี.ค.",
+          "value": 5.4182
+        },
+        {
+          "label": "เม.ย.",
+          "value": 6.6058
+        },
+        {
+          "label": "พ.ค.",
+          "value": 3.1546
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 8.0275
+        },
+        {
+          "label": "ก.ค.",
+          "value": 4.3355
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.2036
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.47
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.228
+        },
+        {
+          "label": "พ.ย.",
+          "value": -1.3922
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -1.7824
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.1656
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.9321
+        },
+        {
+          "label": "มี.ค.",
+          "value": 9.3302
+        },
+        {
+          "label": "เม.ย.",
+          "value": 11.4379
+        },
+        {
+          "label": "พ.ค.",
+          "value": 11.0887
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 20.3929
+        },
+        {
+          "label": "ก.ค.",
+          "value": 19.1339
+        },
+        {
+          "label": "ส.ค.",
+          "value": 24.0833
+        },
+        {
+          "label": "ก.ย.",
+          "value": 27.7084
+        },
+        {
+          "label": "ต.ค.",
+          "value": 24.7055
+        },
+        {
+          "label": "พ.ย.",
+          "value": 21.4275
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 18.2711
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.0193
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.0441
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.0803
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.0265
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.0568
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.0775
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.023
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.0596
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.0544
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.5681
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.4071
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -0.3843
+        }
+      ]
+    }
+  ],
+  "2020": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.1934
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.5549
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.5489
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.7814
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.9441
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.0495
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.0828
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.038
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.0224
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.0536
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.152
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.3757
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.305
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.7927
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.4202
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.4008
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.3476
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.5036
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.6037
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.6522
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.7378
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.8811
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.1333
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.4043
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -2.4346
+        },
+        {
+          "label": "ก.พ.",
+          "value": -11.4885
+        },
+        {
+          "label": "มี.ค.",
+          "value": -22.6792
+        },
+        {
+          "label": "เม.ย.",
+          "value": -12.2409
+        },
+        {
+          "label": "พ.ค.",
+          "value": -10.3943
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -12.7597
+        },
+        {
+          "label": "ก.ค.",
+          "value": -13.4171
+        },
+        {
+          "label": "ส.ค.",
+          "value": -14.4901
+        },
+        {
+          "label": "ก.ย.",
+          "value": -19.7652
+        },
+        {
+          "label": "ต.ค.",
+          "value": -21.5022
+        },
+        {
+          "label": "พ.ย.",
+          "value": -10.7927
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -10.4818
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0183
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.0051
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.0137
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.0713
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.093
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.1259
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.1444
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.2011
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.2407
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.2887
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.3573
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.4368
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.0793
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.4932
+        },
+        {
+          "label": "มี.ค.",
+          "value": -7.5767
+        },
+        {
+          "label": "เม.ย.",
+          "value": -5.7288
+        },
+        {
+          "label": "พ.ค.",
+          "value": -3.9945
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -3.108
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.5053
+        },
+        {
+          "label": "ส.ค.",
+          "value": -1.4612
+        },
+        {
+          "label": "ก.ย.",
+          "value": -1.5579
+        },
+        {
+          "label": "ต.ค.",
+          "value": -1.2318
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.3382
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.0562
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.9775
+        },
+        {
+          "label": "ก.พ.",
+          "value": -4.3641
+        },
+        {
+          "label": "มี.ค.",
+          "value": -17.0049
+        },
+        {
+          "label": "เม.ย.",
+          "value": -9.5117
+        },
+        {
+          "label": "พ.ค.",
+          "value": -2.836
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.5434
+        },
+        {
+          "label": "ก.ค.",
+          "value": 8.8628
+        },
+        {
+          "label": "ส.ค.",
+          "value": 17.237
+        },
+        {
+          "label": "ก.ย.",
+          "value": 13.2238
+        },
+        {
+          "label": "ต.ค.",
+          "value": 16.2176
+        },
+        {
+          "label": "พ.ย.",
+          "value": 22.2884
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 29.0787
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 4.5048
+        },
+        {
+          "label": "ก.พ.",
+          "value": 8.7498
+        },
+        {
+          "label": "มี.ค.",
+          "value": 7.7086
+        },
+        {
+          "label": "เม.ย.",
+          "value": 12.261
+        },
+        {
+          "label": "พ.ค.",
+          "value": 12.7314
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 14.9845
+        },
+        {
+          "label": "ก.ค.",
+          "value": 25.8226
+        },
+        {
+          "label": "ส.ค.",
+          "value": 25.2907
+        },
+        {
+          "label": "ก.ย.",
+          "value": 20.8363
+        },
+        {
+          "label": "ต.ค.",
+          "value": 20.7964
+        },
+        {
+          "label": "พ.ย.",
+          "value": 16.3188
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 20.3438
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.0864
+        },
+        {
+          "label": "ก.พ.",
+          "value": -11.4807
+        },
+        {
+          "label": "มี.ค.",
+          "value": -28.806
+        },
+        {
+          "label": "เม.ย.",
+          "value": -19.4088
+        },
+        {
+          "label": "พ.ค.",
+          "value": -17.532
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -17.2752
+        },
+        {
+          "label": "ก.ค.",
+          "value": -16.4059
+        },
+        {
+          "label": "ส.ค.",
+          "value": -18.4123
+        },
+        {
+          "label": "ก.ย.",
+          "value": -22.3309
+        },
+        {
+          "label": "ต.ค.",
+          "value": -24.9076
+        },
+        {
+          "label": "พ.ย.",
+          "value": -15.0714
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -12.3915
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.4311
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.6275
+        },
+        {
+          "label": "มี.ค.",
+          "value": -21.3261
+        },
+        {
+          "label": "เม.ย.",
+          "value": -10.4278
+        },
+        {
+          "label": "พ.ค.",
+          "value": -6.7987
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -12.4541
+        },
+        {
+          "label": "ก.ค.",
+          "value": -15.6407
+        },
+        {
+          "label": "ส.ค.",
+          "value": -15.3623
+        },
+        {
+          "label": "ก.ย.",
+          "value": -16.6366
+        },
+        {
+          "label": "ต.ค.",
+          "value": -25.0088
+        },
+        {
+          "label": "พ.ย.",
+          "value": -19.0803
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -20.864
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -5.101
+        },
+        {
+          "label": "ก.พ.",
+          "value": -12.4683
+        },
+        {
+          "label": "มี.ค.",
+          "value": -31.2786
+        },
+        {
+          "label": "เม.ย.",
+          "value": -19.4658
+        },
+        {
+          "label": "พ.ค.",
+          "value": -16.8507
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -17.6185
+        },
+        {
+          "label": "ก.ค.",
+          "value": -19.7859
+        },
+        {
+          "label": "ส.ค.",
+          "value": -19.4219
+        },
+        {
+          "label": "ก.ย.",
+          "value": -24.3207
+        },
+        {
+          "label": "ต.ค.",
+          "value": -28.3282
+        },
+        {
+          "label": "พ.ย.",
+          "value": -12.7647
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -13.8308
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -5.0625
+        },
+        {
+          "label": "ก.พ.",
+          "value": -10.6108
+        },
+        {
+          "label": "มี.ค.",
+          "value": -26.3376
+        },
+        {
+          "label": "เม.ย.",
+          "value": -16.9012
+        },
+        {
+          "label": "พ.ค.",
+          "value": -15.1163
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -16.5391
+        },
+        {
+          "label": "ก.ค.",
+          "value": -18.7115
+        },
+        {
+          "label": "ส.ค.",
+          "value": -18.3808
+        },
+        {
+          "label": "ก.ย.",
+          "value": -23.7933
+        },
+        {
+          "label": "ต.ค.",
+          "value": -27.3215
+        },
+        {
+          "label": "พ.ย.",
+          "value": -12.9796
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -13.7973
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -6.4026
+        },
+        {
+          "label": "ก.พ.",
+          "value": -10.1234
+        },
+        {
+          "label": "มี.ค.",
+          "value": -29.5665
+        },
+        {
+          "label": "เม.ย.",
+          "value": -17.2809
+        },
+        {
+          "label": "พ.ค.",
+          "value": -10.1922
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -8.1453
+        },
+        {
+          "label": "ก.ค.",
+          "value": -5.7001
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.0881
+        },
+        {
+          "label": "ก.ย.",
+          "value": -5.2848
+        },
+        {
+          "label": "ต.ค.",
+          "value": -6.6015
+        },
+        {
+          "label": "พ.ย.",
+          "value": -1.3462
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 6.3286
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.694
+        },
+        {
+          "label": "ก.พ.",
+          "value": -2.8776
+        },
+        {
+          "label": "มี.ค.",
+          "value": -19.2618
+        },
+        {
+          "label": "เม.ย.",
+          "value": -14.9871
+        },
+        {
+          "label": "พ.ค.",
+          "value": -12.0557
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -12.6587
+        },
+        {
+          "label": "ก.ค.",
+          "value": -10.0083
+        },
+        {
+          "label": "ส.ค.",
+          "value": -9.7581
+        },
+        {
+          "label": "ก.ย.",
+          "value": -9.9579
+        },
+        {
+          "label": "ต.ค.",
+          "value": -14.9667
+        },
+        {
+          "label": "พ.ย.",
+          "value": -12.0543
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -11.465
+        }
+      ]
+    }
+  ],
+  "2021": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0681
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.3273
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.2018
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.1707
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.1337
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.0302
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0284
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.1091
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.1002
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.2464
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.1383
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -0.1372
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0409
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.0821
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.147
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.2753
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.4154
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.5686
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.688
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.7965
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.5766
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.4383
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.5974
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.6147
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.5874
+        },
+        {
+          "label": "ก.พ.",
+          "value": 5.2922
+        },
+        {
+          "label": "มี.ค.",
+          "value": 12.3111
+        },
+        {
+          "label": "เม.ย.",
+          "value": 12.572
+        },
+        {
+          "label": "พ.ค.",
+          "value": 11.7191
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 10.5151
+        },
+        {
+          "label": "ก.ค.",
+          "value": 5.4291
+        },
+        {
+          "label": "ส.ค.",
+          "value": 13.9444
+        },
+        {
+          "label": "ก.ย.",
+          "value": 12.1609
+        },
+        {
+          "label": "ต.ค.",
+          "value": 14.7655
+        },
+        {
+          "label": "พ.ย.",
+          "value": 13.0367
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 19.4668
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0012
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.0114
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.0269
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.0287
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.0249
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.0462
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0499
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.0568
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.0456
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.0539
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.0705
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.1
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.3614
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.3305
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.7724
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.0196
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.21
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.7306
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.9424
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.2345
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.0059
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.9968
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.3716
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.3697
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 5.2065
+        },
+        {
+          "label": "ก.พ.",
+          "value": 5.5791
+        },
+        {
+          "label": "มี.ค.",
+          "value": -6.5893
+        },
+        {
+          "label": "เม.ย.",
+          "value": -1.8957
+        },
+        {
+          "label": "พ.ค.",
+          "value": -4.2538
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.8677
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.0721
+        },
+        {
+          "label": "ส.ค.",
+          "value": 3.8563
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.3462
+        },
+        {
+          "label": "ต.ค.",
+          "value": 2.6847
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.4662
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 4.5045
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -2.1285
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.7149
+        },
+        {
+          "label": "มี.ค.",
+          "value": -9.0384
+        },
+        {
+          "label": "เม.ย.",
+          "value": -4.8977
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.5974
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -5.4086
+        },
+        {
+          "label": "ก.ค.",
+          "value": -2.0968
+        },
+        {
+          "label": "ส.ค.",
+          "value": -2.2869
+        },
+        {
+          "label": "ก.ย.",
+          "value": -6.2766
+        },
+        {
+          "label": "ต.ค.",
+          "value": -3.2452
+        },
+        {
+          "label": "พ.ย.",
+          "value": -3.9022
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -3.5842
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.1099
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.1416
+        },
+        {
+          "label": "มี.ค.",
+          "value": 6.6581
+        },
+        {
+          "label": "เม.ย.",
+          "value": 9.5681
+        },
+        {
+          "label": "พ.ค.",
+          "value": 7.7956
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 8.8798
+        },
+        {
+          "label": "ก.ค.",
+          "value": 3.6805
+        },
+        {
+          "label": "ส.ค.",
+          "value": 9.6191
+        },
+        {
+          "label": "ก.ย.",
+          "value": 8.8504
+        },
+        {
+          "label": "ต.ค.",
+          "value": 9.923
+        },
+        {
+          "label": "พ.ย.",
+          "value": 7.2477
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 11.7212
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.9812
+        },
+        {
+          "label": "ก.พ.",
+          "value": -8.5156
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.7428
+        },
+        {
+          "label": "เม.ย.",
+          "value": -1.4457
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.8439
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.7803
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.6828
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.8004
+        },
+        {
+          "label": "ก.ย.",
+          "value": -1.1096
+        },
+        {
+          "label": "ต.ค.",
+          "value": 2.1953
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.262
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -0.8197
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0491
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.8447
+        },
+        {
+          "label": "มี.ค.",
+          "value": 6.2187
+        },
+        {
+          "label": "เม.ย.",
+          "value": 5.8224
+        },
+        {
+          "label": "พ.ค.",
+          "value": 5.1831
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 5.2382
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.3878
+        },
+        {
+          "label": "ส.ค.",
+          "value": 8.9883
+        },
+        {
+          "label": "ก.ย.",
+          "value": 7.8535
+        },
+        {
+          "label": "ต.ค.",
+          "value": 8.3327
+        },
+        {
+          "label": "พ.ย.",
+          "value": 5.3459
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 9.5281
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.2019
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.3055
+        },
+        {
+          "label": "มี.ค.",
+          "value": 10.1532
+        },
+        {
+          "label": "เม.ย.",
+          "value": 9.1615
+        },
+        {
+          "label": "พ.ค.",
+          "value": 7.0562
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 6.6806
+        },
+        {
+          "label": "ก.ค.",
+          "value": 2.7939
+        },
+        {
+          "label": "ส.ค.",
+          "value": 9.6988
+        },
+        {
+          "label": "ก.ย.",
+          "value": 9.7163
+        },
+        {
+          "label": "ต.ค.",
+          "value": 10.5365
+        },
+        {
+          "label": "พ.ย.",
+          "value": 7.1574
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 11.8701
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.0027
+        },
+        {
+          "label": "ก.พ.",
+          "value": 5.6452
+        },
+        {
+          "label": "มี.ค.",
+          "value": 25.2393
+        },
+        {
+          "label": "เม.ย.",
+          "value": 29.1086
+        },
+        {
+          "label": "พ.ค.",
+          "value": 27.5102
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 28.3107
+        },
+        {
+          "label": "ก.ค.",
+          "value": 24.3699
+        },
+        {
+          "label": "ส.ค.",
+          "value": 28.1729
+        },
+        {
+          "label": "ก.ย.",
+          "value": 28.6237
+        },
+        {
+          "label": "ต.ค.",
+          "value": 31.2126
+        },
+        {
+          "label": "พ.ย.",
+          "value": 33.238
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 39.5396
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.759
+        },
+        {
+          "label": "ก.พ.",
+          "value": -2.0981
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.4563
+        },
+        {
+          "label": "เม.ย.",
+          "value": 2.2439
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.7052
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 4.1747
+        },
+        {
+          "label": "ก.ค.",
+          "value": 4.3737
+        },
+        {
+          "label": "ส.ค.",
+          "value": 4.9969
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.8644
+        },
+        {
+          "label": "ต.ค.",
+          "value": 3.4848
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.1429
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.3378
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF14",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.7516
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.5125
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.5082
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.1904
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.3078
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.8866
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF15",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0024
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.0001
+        },
+        {
+          "label": "ก.ย.",
+          "value": -2.218
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.2756
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.5329
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -1.2236
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF16",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0024
+        },
+        {
+          "label": "ส.ค.",
+          "value": -2.6928
+        },
+        {
+          "label": "ก.ย.",
+          "value": -5.2505
+        },
+        {
+          "label": "ต.ค.",
+          "value": -1.1033
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.9268
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -1.1937
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF17",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0032
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.0071
+        },
+        {
+          "label": "ก.ย.",
+          "value": -4.8008
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.0302
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.48
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.3797
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF18",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0021
+        },
+        {
+          "label": "ส.ค.",
+          "value": -2.6552
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.2995
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.2995
+        },
+        {
+          "label": "พ.ย.",
+          "value": -62.6135
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -16.8897
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF19",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0042
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.0065
+        },
+        {
+          "label": "ก.ย.",
+          "value": -2.0557
+        },
+        {
+          "label": "ต.ค.",
+          "value": -1.3922
+        },
+        {
+          "label": "พ.ย.",
+          "value": -3.0617
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -5.5585
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF20",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.1506
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.8247
+        },
+        {
+          "label": "ก.ย.",
+          "value": -1.4107
+        },
+        {
+          "label": "ต.ค.",
+          "value": -2.733
+        },
+        {
+          "label": "พ.ย.",
+          "value": -2.8521
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -3.9348
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF21",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.0629
+        },
+        {
+          "label": "ส.ค.",
+          "value": 18.6441
+        },
+        {
+          "label": "ก.ย.",
+          "value": 19.6284
+        },
+        {
+          "label": "ต.ค.",
+          "value": 20.8418
+        },
+        {
+          "label": "พ.ย.",
+          "value": 21.3357
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 27.2007
+        }
+      ]
+    }
+  ],
+  "2022": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0438
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.0198
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.2199
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.7392
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.7483
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.8328
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.764
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.4284
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.7862
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.5873
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.3903
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -0.1216
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0086
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.0738
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.1283
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.742
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.7223
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.8082
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.6005
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.2237
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.6698
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.4403
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.0316
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.393
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -2.2386
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.5795
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.03
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.9276
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.3814
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -5.5125
+        },
+        {
+          "label": "ก.ค.",
+          "value": -5.3718
+        },
+        {
+          "label": "ส.ค.",
+          "value": -1.3612
+        },
+        {
+          "label": "ก.ย.",
+          "value": -4.7102
+        },
+        {
+          "label": "ต.ค.",
+          "value": -3.2388
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.9792
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.3805
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0082
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.0222
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.0506
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.072
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.096
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.0936
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.1123
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.1731
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.1974
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.2382
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.3263
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.4461
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.5519
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.2066
+        },
+        {
+          "label": "มี.ค.",
+          "value": -3.6529
+        },
+        {
+          "label": "เม.ย.",
+          "value": -5.208
+        },
+        {
+          "label": "พ.ค.",
+          "value": -5.0071
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -7.2859
+        },
+        {
+          "label": "ก.ค.",
+          "value": -6.4567
+        },
+        {
+          "label": "ส.ค.",
+          "value": -6.1151
+        },
+        {
+          "label": "ก.ย.",
+          "value": -9.0322
+        },
+        {
+          "label": "ต.ค.",
+          "value": -9.1573
+        },
+        {
+          "label": "พ.ย.",
+          "value": -7.963
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -7.746
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -12.5625
+        },
+        {
+          "label": "ก.พ.",
+          "value": -12.5045
+        },
+        {
+          "label": "มี.ค.",
+          "value": -9.7367
+        },
+        {
+          "label": "เม.ย.",
+          "value": -17.8325
+        },
+        {
+          "label": "พ.ค.",
+          "value": -19.4885
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -25.2915
+        },
+        {
+          "label": "ก.ค.",
+          "value": -23.872
+        },
+        {
+          "label": "ส.ค.",
+          "value": -23.6246
+        },
+        {
+          "label": "ก.ย.",
+          "value": -29.8198
+        },
+        {
+          "label": "ต.ค.",
+          "value": -26.957
+        },
+        {
+          "label": "พ.ย.",
+          "value": -25.0215
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -26.2785
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.4285
+        },
+        {
+          "label": "ก.พ.",
+          "value": 5.2166
+        },
+        {
+          "label": "มี.ค.",
+          "value": 5.6691
+        },
+        {
+          "label": "เม.ย.",
+          "value": 3.8252
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.8806
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.1282
+        },
+        {
+          "label": "ก.ค.",
+          "value": -4.1345
+        },
+        {
+          "label": "ส.ค.",
+          "value": -4.4498
+        },
+        {
+          "label": "ก.ย.",
+          "value": -8.7437
+        },
+        {
+          "label": "ต.ค.",
+          "value": -8.899
+        },
+        {
+          "label": "พ.ย.",
+          "value": -4.3737
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -2.2266
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -2.7032
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.8123
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.2278
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.6583
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.2608
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -4.5007
+        },
+        {
+          "label": "ก.ค.",
+          "value": -5.6383
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.5479
+        },
+        {
+          "label": "ก.ย.",
+          "value": -3.9158
+        },
+        {
+          "label": "ต.ค.",
+          "value": -2.6961
+        },
+        {
+          "label": "พ.ย.",
+          "value": -1.4559
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -0.6658
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -6.0602
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.6844
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.7498
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.9437
+        },
+        {
+          "label": "พ.ค.",
+          "value": -3.3977
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -6.491
+        },
+        {
+          "label": "ก.ค.",
+          "value": -7.6543
+        },
+        {
+          "label": "ส.ค.",
+          "value": -3.5569
+        },
+        {
+          "label": "ก.ย.",
+          "value": -7.0014
+        },
+        {
+          "label": "ต.ค.",
+          "value": -8.3892
+        },
+        {
+          "label": "พ.ย.",
+          "value": -7.6622
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -5.0265
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0184
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.5399
+        },
+        {
+          "label": "มี.ค.",
+          "value": 3.8771
+        },
+        {
+          "label": "เม.ย.",
+          "value": 1.6706
+        },
+        {
+          "label": "พ.ค.",
+          "value": 2.8748
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.0196
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.1834
+        },
+        {
+          "label": "ส.ค.",
+          "value": 3.4692
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.1285
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.913
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.7884
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 4.8035
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0716
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.7344
+        },
+        {
+          "label": "มี.ค.",
+          "value": 3.5165
+        },
+        {
+          "label": "เม.ย.",
+          "value": 1.5118
+        },
+        {
+          "label": "พ.ค.",
+          "value": 2.2618
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.8157
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.8959
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.8421
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.3276
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.2798
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.0286
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 4.2614
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.7312
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.6561
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.5832
+        },
+        {
+          "label": "เม.ย.",
+          "value": 7.1702
+        },
+        {
+          "label": "พ.ค.",
+          "value": 2.3644
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.7951
+        },
+        {
+          "label": "ก.ค.",
+          "value": -4.3973
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.0491
+        },
+        {
+          "label": "ก.ย.",
+          "value": -2.635
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.2946
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.2605
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.8318
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -4.9663
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.5342
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.5689
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.6435
+        },
+        {
+          "label": "พ.ค.",
+          "value": -5.1001
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -6.2295
+        },
+        {
+          "label": "ก.ค.",
+          "value": -6.3861
+        },
+        {
+          "label": "ส.ค.",
+          "value": -5.8298
+        },
+        {
+          "label": "ก.ย.",
+          "value": -12.3208
+        },
+        {
+          "label": "ต.ค.",
+          "value": -14.2117
+        },
+        {
+          "label": "พ.ย.",
+          "value": -11.9062
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -12.0769
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF14",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.0371
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.1437
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.06
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.8291
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.8744
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.0511
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.6994
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.3462
+        },
+        {
+          "label": "ก.ย.",
+          "value": -1.1095
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.5849
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.9684
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 3.6456
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF15",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -26.6788
+        },
+        {
+          "label": "ก.พ.",
+          "value": -24.1089
+        },
+        {
+          "label": "มี.ค.",
+          "value": -18.8393
+        },
+        {
+          "label": "เม.ย.",
+          "value": -33.4057
+        },
+        {
+          "label": "พ.ค.",
+          "value": -37.3927
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -43.2739
+        },
+        {
+          "label": "ก.ค.",
+          "value": -40.7963
+        },
+        {
+          "label": "ส.ค.",
+          "value": -41.1799
+        },
+        {
+          "label": "ก.ย.",
+          "value": -48.1611
+        },
+        {
+          "label": "ต.ค.",
+          "value": -48.3782
+        },
+        {
+          "label": "พ.ย.",
+          "value": -48.5727
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -50.9417
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF16",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -7.7072
+        },
+        {
+          "label": "ก.พ.",
+          "value": -7.4886
+        },
+        {
+          "label": "มี.ค.",
+          "value": -16.5251
+        },
+        {
+          "label": "เม.ย.",
+          "value": -26.6226
+        },
+        {
+          "label": "พ.ค.",
+          "value": -26.6547
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -18.0102
+        },
+        {
+          "label": "ก.ค.",
+          "value": -20.5029
+        },
+        {
+          "label": "ส.ค.",
+          "value": -25.8052
+        },
+        {
+          "label": "ก.ย.",
+          "value": -33.409
+        },
+        {
+          "label": "ต.ค.",
+          "value": -42.493
+        },
+        {
+          "label": "พ.ย.",
+          "value": -40.8509
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -38.3765
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF17",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -15.0635
+        },
+        {
+          "label": "ก.พ.",
+          "value": -14.6226
+        },
+        {
+          "label": "มี.ค.",
+          "value": -9.251
+        },
+        {
+          "label": "เม.ย.",
+          "value": -18.4119
+        },
+        {
+          "label": "พ.ค.",
+          "value": -17.0991
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -24.8494
+        },
+        {
+          "label": "ก.ค.",
+          "value": -22.9287
+        },
+        {
+          "label": "ส.ค.",
+          "value": -22.4795
+        },
+        {
+          "label": "ก.ย.",
+          "value": -30.6622
+        },
+        {
+          "label": "ต.ค.",
+          "value": -26.5535
+        },
+        {
+          "label": "พ.ย.",
+          "value": -20.0114
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -22.0604
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF18",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.8458
+        },
+        {
+          "label": "ก.พ.",
+          "value": -8.43
+        },
+        {
+          "label": "มี.ค.",
+          "value": -6.8868
+        },
+        {
+          "label": "เม.ย.",
+          "value": -16.8921
+        },
+        {
+          "label": "พ.ค.",
+          "value": -16.1836
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -17.8035
+        },
+        {
+          "label": "ก.ค.",
+          "value": -19.6851
+        },
+        {
+          "label": "ส.ค.",
+          "value": -18.9317
+        },
+        {
+          "label": "ก.ย.",
+          "value": -25.9998
+        },
+        {
+          "label": "ต.ค.",
+          "value": -29.0404
+        },
+        {
+          "label": "พ.ย.",
+          "value": -19.0307
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -19.2859
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF19",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -14.6545
+        },
+        {
+          "label": "ก.พ.",
+          "value": -16.7687
+        },
+        {
+          "label": "มี.ค.",
+          "value": -11.869
+        },
+        {
+          "label": "เม.ย.",
+          "value": -18.8055
+        },
+        {
+          "label": "พ.ค.",
+          "value": -20.6068
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -26.3877
+        },
+        {
+          "label": "ก.ค.",
+          "value": -23.0825
+        },
+        {
+          "label": "ส.ค.",
+          "value": -24.5188
+        },
+        {
+          "label": "ก.ย.",
+          "value": -31.2844
+        },
+        {
+          "label": "ต.ค.",
+          "value": -26.1592
+        },
+        {
+          "label": "พ.ย.",
+          "value": -21.8841
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -22.9594
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF20",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.5268
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.246
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.7494
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.5286
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.5509
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.6529
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.8044
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.6051
+        },
+        {
+          "label": "ก.ย.",
+          "value": -1.0704
+        },
+        {
+          "label": "ต.ค.",
+          "value": -1.9409
+        },
+        {
+          "label": "พ.ย.",
+          "value": -1.6676
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -1.7198
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF21",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -2.8991
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.4007
+        },
+        {
+          "label": "มี.ค.",
+          "value": -4.5671
+        },
+        {
+          "label": "เม.ย.",
+          "value": -3.2131
+        },
+        {
+          "label": "พ.ค.",
+          "value": -6.9184
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -9.6981
+        },
+        {
+          "label": "ก.ค.",
+          "value": -11.4021
+        },
+        {
+          "label": "ส.ค.",
+          "value": -6.6327
+        },
+        {
+          "label": "ก.ย.",
+          "value": -9.4923
+        },
+        {
+          "label": "ต.ค.",
+          "value": -7.6889
+        },
+        {
+          "label": "พ.ย.",
+          "value": -7.3377
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -5.7528
+        }
+      ]
+    }
+  ],
+  "2023": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0763
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.0544
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.1142
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.138
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.1367
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.2249
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.3028
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.4117
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.4251
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.6097
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.8318
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.0502
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0454
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.0001
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.2936
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.3446
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.3484
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.449
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.5556
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.7009
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.6631
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.9151
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.2646
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.5841
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.2513
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.8521
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.9739
+        },
+        {
+          "label": "เม.ย.",
+          "value": -7.3647
+        },
+        {
+          "label": "พ.ค.",
+          "value": -6.4704
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -9.1663
+        },
+        {
+          "label": "ก.ค.",
+          "value": -6.9869
+        },
+        {
+          "label": "ส.ค.",
+          "value": -5.0115
+        },
+        {
+          "label": "ก.ย.",
+          "value": -9.5743
+        },
+        {
+          "label": "ต.ค.",
+          "value": -14.4107
+        },
+        {
+          "label": "พ.ย.",
+          "value": -14.7978
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -12.6223
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0415
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.1214
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.2332
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.3362
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.449
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.5901
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.7319
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.8671
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.9919
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.1901
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.4077
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.5831
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.6301
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.2233
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.1079
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.0078
+        },
+        {
+          "label": "พ.ค.",
+          "value": -1.5274
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -1.2951
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.7814
+        },
+        {
+          "label": "ส.ค.",
+          "value": -2.8065
+        },
+        {
+          "label": "ก.ย.",
+          "value": -5.315
+        },
+        {
+          "label": "ต.ค.",
+          "value": -6.575
+        },
+        {
+          "label": "พ.ย.",
+          "value": -3.6314
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -1.1114
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.9966
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.0814
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.2635
+        },
+        {
+          "label": "เม.ย.",
+          "value": 3.5033
+        },
+        {
+          "label": "พ.ค.",
+          "value": 3.1644
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 6.2208
+        },
+        {
+          "label": "ก.ค.",
+          "value": 8.2174
+        },
+        {
+          "label": "ส.ค.",
+          "value": 6.9159
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.9602
+        },
+        {
+          "label": "ต.ค.",
+          "value": -1.136
+        },
+        {
+          "label": "พ.ย.",
+          "value": 6.3799
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 10.8663
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 5.337
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.0956
+        },
+        {
+          "label": "มี.ค.",
+          "value": 7.0401
+        },
+        {
+          "label": "เม.ย.",
+          "value": 8.4256
+        },
+        {
+          "label": "พ.ค.",
+          "value": 4.595
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 2.7979
+        },
+        {
+          "label": "ก.ค.",
+          "value": 5.5134
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.8977
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.17
+        },
+        {
+          "label": "ต.ค.",
+          "value": 5.4411
+        },
+        {
+          "label": "พ.ย.",
+          "value": 6.5831
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 7.0669
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.1548
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.2954
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.1576
+        },
+        {
+          "label": "เม.ย.",
+          "value": -4.7338
+        },
+        {
+          "label": "พ.ค.",
+          "value": -4.7615
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -5.8227
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.7797
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.3986
+        },
+        {
+          "label": "ก.ย.",
+          "value": -2.8455
+        },
+        {
+          "label": "ต.ค.",
+          "value": -5.0656
+        },
+        {
+          "label": "พ.ย.",
+          "value": -6.0502
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -3.7472
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 5.9583
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.785
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.7061
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.6751
+        },
+        {
+          "label": "พ.ค.",
+          "value": -1.773
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -6.3959
+        },
+        {
+          "label": "ก.ค.",
+          "value": -6.9626
+        },
+        {
+          "label": "ส.ค.",
+          "value": -7.6066
+        },
+        {
+          "label": "ก.ย.",
+          "value": -11.6059
+        },
+        {
+          "label": "ต.ค.",
+          "value": -17.3516
+        },
+        {
+          "label": "พ.ย.",
+          "value": -10.1012
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -7.5345
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.7955
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.7314
+        },
+        {
+          "label": "มี.ค.",
+          "value": -3.6175
+        },
+        {
+          "label": "เม.ย.",
+          "value": -7.0626
+        },
+        {
+          "label": "พ.ค.",
+          "value": -6.9022
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -8.8328
+        },
+        {
+          "label": "ก.ค.",
+          "value": -3.4827
+        },
+        {
+          "label": "ส.ค.",
+          "value": -2.4957
+        },
+        {
+          "label": "ก.ย.",
+          "value": -8.7777
+        },
+        {
+          "label": "ต.ค.",
+          "value": -11.8865
+        },
+        {
+          "label": "พ.ย.",
+          "value": -12.7424
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -11.0245
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.4627
+        },
+        {
+          "label": "ก.พ.",
+          "value": -4.5811
+        },
+        {
+          "label": "มี.ค.",
+          "value": -4.7836
+        },
+        {
+          "label": "เม.ย.",
+          "value": -6.4332
+        },
+        {
+          "label": "พ.ค.",
+          "value": -7.1139
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -9.6584
+        },
+        {
+          "label": "ก.ค.",
+          "value": -6.0693
+        },
+        {
+          "label": "ส.ค.",
+          "value": -5.3022
+        },
+        {
+          "label": "ก.ย.",
+          "value": -10.2365
+        },
+        {
+          "label": "ต.ค.",
+          "value": -14.153
+        },
+        {
+          "label": "พ.ย.",
+          "value": -15.8431
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -14.4582
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.9599
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.3772
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.7424
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.5
+        },
+        {
+          "label": "พ.ค.",
+          "value": -1.8108
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -7.7083
+        },
+        {
+          "label": "ก.ค.",
+          "value": -6.7944
+        },
+        {
+          "label": "ส.ค.",
+          "value": -1.9484
+        },
+        {
+          "label": "ก.ย.",
+          "value": -4.8769
+        },
+        {
+          "label": "ต.ค.",
+          "value": -11.3838
+        },
+        {
+          "label": "พ.ย.",
+          "value": -12.9395
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -10.9489
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 5.8981
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.4461
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.374
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.6622
+        },
+        {
+          "label": "พ.ค.",
+          "value": -1.1103
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -3.092
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.7832
+        },
+        {
+          "label": "ส.ค.",
+          "value": -3.8294
+        },
+        {
+          "label": "ก.ย.",
+          "value": -8.1826
+        },
+        {
+          "label": "ต.ค.",
+          "value": -14.3534
+        },
+        {
+          "label": "พ.ย.",
+          "value": -6.9556
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -3.4434
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF14",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.2061
+        },
+        {
+          "label": "ก.พ.",
+          "value": -2.3283
+        },
+        {
+          "label": "มี.ค.",
+          "value": -4.7314
+        },
+        {
+          "label": "เม.ย.",
+          "value": -6.9613
+        },
+        {
+          "label": "พ.ค.",
+          "value": -7.5604
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -11.5587
+        },
+        {
+          "label": "ก.ค.",
+          "value": -9.2416
+        },
+        {
+          "label": "ส.ค.",
+          "value": -6.2395
+        },
+        {
+          "label": "ก.ย.",
+          "value": -11.549
+        },
+        {
+          "label": "ต.ค.",
+          "value": -15.7899
+        },
+        {
+          "label": "พ.ย.",
+          "value": -16.1661
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -14.8475
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF15",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 10.238
+        },
+        {
+          "label": "ก.พ.",
+          "value": 8.5344
+        },
+        {
+          "label": "มี.ค.",
+          "value": 10.4121
+        },
+        {
+          "label": "เม.ย.",
+          "value": 4.4095
+        },
+        {
+          "label": "พ.ค.",
+          "value": 16.0665
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 20.4835
+        },
+        {
+          "label": "ก.ค.",
+          "value": 25.9636
+        },
+        {
+          "label": "ส.ค.",
+          "value": 21.0821
+        },
+        {
+          "label": "ก.ย.",
+          "value": 12.1017
+        },
+        {
+          "label": "ต.ค.",
+          "value": 4.7368
+        },
+        {
+          "label": "พ.ย.",
+          "value": 19.8491
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 25.295
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF16",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 10.0268
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.4127
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.2987
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.2454
+        },
+        {
+          "label": "พ.ค.",
+          "value": -9.3768
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -10.3838
+        },
+        {
+          "label": "ก.ค.",
+          "value": -8.6519
+        },
+        {
+          "label": "ส.ค.",
+          "value": -12.9796
+        },
+        {
+          "label": "ก.ย.",
+          "value": -16.7881
+        },
+        {
+          "label": "ต.ค.",
+          "value": -21.2327
+        },
+        {
+          "label": "พ.ย.",
+          "value": -21.6143
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -26.3536
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF17",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 6.4512
+        },
+        {
+          "label": "ก.พ.",
+          "value": 5.7161
+        },
+        {
+          "label": "มี.ค.",
+          "value": 8.4403
+        },
+        {
+          "label": "เม.ย.",
+          "value": 7.3469
+        },
+        {
+          "label": "พ.ค.",
+          "value": 8.6336
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 9.4711
+        },
+        {
+          "label": "ก.ค.",
+          "value": 12.8402
+        },
+        {
+          "label": "ส.ค.",
+          "value": 5.9541
+        },
+        {
+          "label": "ก.ย.",
+          "value": -4.551
+        },
+        {
+          "label": "ต.ค.",
+          "value": -11.0291
+        },
+        {
+          "label": "พ.ย.",
+          "value": -0.0142
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 6.2329
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF18",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 10.6244
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.1844
+        },
+        {
+          "label": "มี.ค.",
+          "value": 5.1531
+        },
+        {
+          "label": "เม.ย.",
+          "value": 3.2357
+        },
+        {
+          "label": "พ.ค.",
+          "value": 5.2465
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 8.5894
+        },
+        {
+          "label": "ก.ค.",
+          "value": 13.5075
+        },
+        {
+          "label": "ส.ค.",
+          "value": 8.8336
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.7316
+        },
+        {
+          "label": "ต.ค.",
+          "value": -2.0933
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.4443
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 4.5261
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF19",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 7.8246
+        },
+        {
+          "label": "ก.พ.",
+          "value": 11.5494
+        },
+        {
+          "label": "มี.ค.",
+          "value": 9.3704
+        },
+        {
+          "label": "เม.ย.",
+          "value": 9.1294
+        },
+        {
+          "label": "พ.ค.",
+          "value": 11.7081
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 12.2872
+        },
+        {
+          "label": "ก.ค.",
+          "value": 15.7369
+        },
+        {
+          "label": "ส.ค.",
+          "value": 12.9856
+        },
+        {
+          "label": "ก.ย.",
+          "value": 5.5275
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.7642
+        },
+        {
+          "label": "พ.ย.",
+          "value": 10.0273
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 13.6207
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF20",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.1835
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.2532
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.0259
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.0617
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.5178
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.0847
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.0758
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.258
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.6876
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.9032
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.4253
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.3989
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF21",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.8621
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.7877
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.7612
+        },
+        {
+          "label": "เม.ย.",
+          "value": -4.1832
+        },
+        {
+          "label": "พ.ค.",
+          "value": -5.2251
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -10.0657
+        },
+        {
+          "label": "ก.ค.",
+          "value": -9.6277
+        },
+        {
+          "label": "ส.ค.",
+          "value": -6.0529
+        },
+        {
+          "label": "ก.ย.",
+          "value": -9.2921
+        },
+        {
+          "label": "ต.ค.",
+          "value": -13.7286
+        },
+        {
+          "label": "พ.ย.",
+          "value": -15.9547
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -14.219
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF22",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "2024": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.2244
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.4667
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.6183
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.5113
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.6922
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.8858
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.126
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.4089
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.6235
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.8525
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.1351
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.2897
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.2743
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.5552
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.7659
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.5741
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.8764
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.1583
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.5581
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.8519
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.1224
+        },
+        {
+          "label": "ต.ค.",
+          "value": 2.4544
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.8301
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.9766
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.7478
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.0076
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.3783
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.1458
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.7226
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -3.9749
+        },
+        {
+          "label": "ก.ค.",
+          "value": -2.3935
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.2388
+        },
+        {
+          "label": "ก.ย.",
+          "value": 9.127
+        },
+        {
+          "label": "ต.ค.",
+          "value": 8.4306
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.9754
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.8721
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.2221
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.4064
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.5574
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.7623
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.9222
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.0949
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.2862
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.4826
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.6697
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.8699
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.0552
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.2536
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.697
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.6767
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.5895
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.4616
+        },
+        {
+          "label": "พ.ค.",
+          "value": -2.2492
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.9176
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.8248
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.5259
+        },
+        {
+          "label": "ก.ย.",
+          "value": -0.2773
+        },
+        {
+          "label": "ต.ค.",
+          "value": -2.088
+        },
+        {
+          "label": "พ.ย.",
+          "value": -1.675
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -3.0761
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.3114
+        },
+        {
+          "label": "ก.พ.",
+          "value": 4.4652
+        },
+        {
+          "label": "มี.ค.",
+          "value": 7.1972
+        },
+        {
+          "label": "เม.ย.",
+          "value": 4.8758
+        },
+        {
+          "label": "พ.ค.",
+          "value": 6.2555
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 8.7505
+        },
+        {
+          "label": "ก.ค.",
+          "value": 6.9143
+        },
+        {
+          "label": "ส.ค.",
+          "value": 8.7456
+        },
+        {
+          "label": "ก.ย.",
+          "value": 10.2943
+        },
+        {
+          "label": "ต.ค.",
+          "value": 10.3062
+        },
+        {
+          "label": "พ.ย.",
+          "value": 12.5098
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 10.0526
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.5609
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.8918
+        },
+        {
+          "label": "มี.ค.",
+          "value": 5.5973
+        },
+        {
+          "label": "เม.ย.",
+          "value": 12.4154
+        },
+        {
+          "label": "พ.ค.",
+          "value": 11.7477
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 9.9313
+        },
+        {
+          "label": "ก.ค.",
+          "value": 13.0158
+        },
+        {
+          "label": "ส.ค.",
+          "value": 17.0693
+        },
+        {
+          "label": "ก.ย.",
+          "value": 22.0675
+        },
+        {
+          "label": "ต.ค.",
+          "value": 27.3869
+        },
+        {
+          "label": "พ.ย.",
+          "value": 21.6401
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 19.1157
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.589
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.3899
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.4815
+        },
+        {
+          "label": "เม.ย.",
+          "value": -4.0401
+        },
+        {
+          "label": "พ.ค.",
+          "value": -5.5418
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -6.9387
+        },
+        {
+          "label": "ก.ค.",
+          "value": -6.5685
+        },
+        {
+          "label": "ส.ค.",
+          "value": -3.3794
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.42
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.2691
+        },
+        {
+          "label": "พ.ย.",
+          "value": -2.4241
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -4.5765
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.0248
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.827
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.9556
+        },
+        {
+          "label": "เม.ย.",
+          "value": -3.9131
+        },
+        {
+          "label": "พ.ค.",
+          "value": -6.5316
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -11.1968
+        },
+        {
+          "label": "ก.ค.",
+          "value": -3.3156
+        },
+        {
+          "label": "ส.ค.",
+          "value": 4.1524
+        },
+        {
+          "label": "ก.ย.",
+          "value": 9.6989
+        },
+        {
+          "label": "ต.ค.",
+          "value": 6.8299
+        },
+        {
+          "label": "พ.ย.",
+          "value": 6.0028
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 5.4933
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -4.1899
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.2934
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.2604
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.1593
+        },
+        {
+          "label": "พ.ค.",
+          "value": -3.3215
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -5.5861
+        },
+        {
+          "label": "ก.ค.",
+          "value": -2.6129
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.837
+        },
+        {
+          "label": "ก.ย.",
+          "value": 7.5692
+        },
+        {
+          "label": "ต.ค.",
+          "value": 10.1958
+        },
+        {
+          "label": "พ.ย.",
+          "value": 8.1723
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 6.8105
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.8349
+        },
+        {
+          "label": "ก.พ.",
+          "value": -2.6003
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.017
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.2606
+        },
+        {
+          "label": "พ.ค.",
+          "value": -3.2681
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -5.137
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.7674
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.9254
+        },
+        {
+          "label": "ก.ย.",
+          "value": 8.3805
+        },
+        {
+          "label": "ต.ค.",
+          "value": 10.7138
+        },
+        {
+          "label": "พ.ย.",
+          "value": 8.9717
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 7.6759
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.3173
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.3574
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.651
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.2879
+        },
+        {
+          "label": "พ.ค.",
+          "value": -2.2364
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -5.7502
+        },
+        {
+          "label": "ก.ค.",
+          "value": -10.8371
+        },
+        {
+          "label": "ส.ค.",
+          "value": -10.412
+        },
+        {
+          "label": "ก.ย.",
+          "value": -2.5735
+        },
+        {
+          "label": "ต.ค.",
+          "value": -0.0265
+        },
+        {
+          "label": "พ.ย.",
+          "value": -1.2821
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -1.0639
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.0112
+        },
+        {
+          "label": "ก.พ.",
+          "value": -4.2318
+        },
+        {
+          "label": "มี.ค.",
+          "value": -3.8606
+        },
+        {
+          "label": "เม.ย.",
+          "value": -6.5041
+        },
+        {
+          "label": "พ.ค.",
+          "value": -7.7826
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -10.9543
+        },
+        {
+          "label": "ก.ค.",
+          "value": -5.5726
+        },
+        {
+          "label": "ส.ค.",
+          "value": -0.4604
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.8432
+        },
+        {
+          "label": "ต.ค.",
+          "value": -1.2574
+        },
+        {
+          "label": "พ.ย.",
+          "value": -2.7644
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -4.4992
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF14",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -3.0676
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.5313
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.1513
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.2279
+        },
+        {
+          "label": "พ.ค.",
+          "value": -1.1181
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -4.3946
+        },
+        {
+          "label": "ก.ค.",
+          "value": -3.0203
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.3856
+        },
+        {
+          "label": "ก.ย.",
+          "value": 7.7744
+        },
+        {
+          "label": "ต.ค.",
+          "value": 7.1317
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.0863
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.2911
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF15",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.2435
+        },
+        {
+          "label": "ก.พ.",
+          "value": 6.4345
+        },
+        {
+          "label": "มี.ค.",
+          "value": 8.4547
+        },
+        {
+          "label": "เม.ย.",
+          "value": 3.4158
+        },
+        {
+          "label": "พ.ค.",
+          "value": 9.2524
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 13.21
+        },
+        {
+          "label": "ก.ค.",
+          "value": 4.9757
+        },
+        {
+          "label": "ส.ค.",
+          "value": 6.3531
+        },
+        {
+          "label": "ก.ย.",
+          "value": 7.4646
+        },
+        {
+          "label": "ต.ค.",
+          "value": 11.7958
+        },
+        {
+          "label": "พ.ย.",
+          "value": 16.0036
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 14.4723
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF16",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -7.1923
+        },
+        {
+          "label": "ก.พ.",
+          "value": -0.7595
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.6204
+        },
+        {
+          "label": "เม.ย.",
+          "value": 5.7845
+        },
+        {
+          "label": "พ.ค.",
+          "value": 3.0216
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.8157
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.7269
+        },
+        {
+          "label": "ส.ค.",
+          "value": -2.9423
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.7663
+        },
+        {
+          "label": "ต.ค.",
+          "value": -5.2477
+        },
+        {
+          "label": "พ.ย.",
+          "value": -10.4819
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -12.0348
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF17",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -6.3711
+        },
+        {
+          "label": "ก.พ.",
+          "value": -5.1969
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.5967
+        },
+        {
+          "label": "เม.ย.",
+          "value": -5.0724
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.5911
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -4.3499
+        },
+        {
+          "label": "ก.ค.",
+          "value": -3.4984
+        },
+        {
+          "label": "ส.ค.",
+          "value": -4.3219
+        },
+        {
+          "label": "ก.ย.",
+          "value": -1.0333
+        },
+        {
+          "label": "ต.ค.",
+          "value": -6.0775
+        },
+        {
+          "label": "พ.ย.",
+          "value": -7.4057
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -13.5577
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF18",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.3138
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.5596
+        },
+        {
+          "label": "มี.ค.",
+          "value": 4.5238
+        },
+        {
+          "label": "เม.ย.",
+          "value": 6.668
+        },
+        {
+          "label": "พ.ค.",
+          "value": 7.0248
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 9.771
+        },
+        {
+          "label": "ก.ค.",
+          "value": 5.6471
+        },
+        {
+          "label": "ส.ค.",
+          "value": 7.0501
+        },
+        {
+          "label": "ก.ย.",
+          "value": 13.2152
+        },
+        {
+          "label": "ต.ค.",
+          "value": 9.5543
+        },
+        {
+          "label": "พ.ย.",
+          "value": 5.6266
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0.6743
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF19",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.628
+        },
+        {
+          "label": "ก.พ.",
+          "value": 8.7152
+        },
+        {
+          "label": "มี.ค.",
+          "value": 11.7018
+        },
+        {
+          "label": "เม.ย.",
+          "value": 8.9329
+        },
+        {
+          "label": "พ.ค.",
+          "value": 10.9012
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 11.2241
+        },
+        {
+          "label": "ก.ค.",
+          "value": 8.0938
+        },
+        {
+          "label": "ส.ค.",
+          "value": 8.4759
+        },
+        {
+          "label": "ก.ย.",
+          "value": 6.7171
+        },
+        {
+          "label": "ต.ค.",
+          "value": 3.7346
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.6775
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.2584
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF20",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.1014
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.2711
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.7167
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.1664
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.5623
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.7716
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.3676
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.6636
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.9207
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.7286
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.1337
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.0978
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF21",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.2135
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.1412
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.9057
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.3695
+        },
+        {
+          "label": "พ.ค.",
+          "value": -2.7636
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -5.7115
+        },
+        {
+          "label": "ก.ค.",
+          "value": -7.7939
+        },
+        {
+          "label": "ส.ค.",
+          "value": -4.5759
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.7453
+        },
+        {
+          "label": "ต.ค.",
+          "value": 6.3136
+        },
+        {
+          "label": "พ.ย.",
+          "value": 6.3549
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 7.4545
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF22",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0097
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.6187
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.4503
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.3863
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.0693
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.4445
+        },
+        {
+          "label": "ก.ค.",
+          "value": -0.6307
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.4376
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.4781
+        },
+        {
+          "label": "ต.ค.",
+          "value": 3.5902
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.9139
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 4.2684
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF23",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.8252
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.3221
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.3983
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 5.9676
+        },
+        {
+          "label": "ก.ค.",
+          "value": 2.3086
+        },
+        {
+          "label": "ส.ค.",
+          "value": 7.0435
+        },
+        {
+          "label": "ก.ย.",
+          "value": 9.0078
+        },
+        {
+          "label": "ต.ค.",
+          "value": 8.4613
+        },
+        {
+          "label": "พ.ย.",
+          "value": 10.0018
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 9.1719
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF24",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF25",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.0123
+        },
+        {
+          "label": "ส.ค.",
+          "value": 4.6404
+        },
+        {
+          "label": "ก.ย.",
+          "value": 5.5744
+        },
+        {
+          "label": "ต.ค.",
+          "value": 3.8037
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.7066
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.5066
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF26",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": null
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.011
+        },
+        {
+          "label": "ส.ค.",
+          "value": 5.306
+        },
+        {
+          "label": "ก.ย.",
+          "value": 5.6778
+        },
+        {
+          "label": "ต.ค.",
+          "value": 7.276
+        },
+        {
+          "label": "พ.ย.",
+          "value": 8.4082
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 9.2716
+        }
+      ]
+    }
+  ],
+  "2025": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.1032
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.4012
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.8248
+        },
+        {
+          "label": "เม.ย.",
+          "value": 1.1298
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.2284
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.5578
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.8187
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.1642
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.2155
+        },
+        {
+          "label": "ต.ค.",
+          "value": 2.0013
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.1885
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.4739
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.1193
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.5366
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.1179
+        },
+        {
+          "label": "เม.ย.",
+          "value": 1.5348
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.6835
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 2.1479
+        },
+        {
+          "label": "ก.ค.",
+          "value": 2.4907
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.9151
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.9862
+        },
+        {
+          "label": "ต.ค.",
+          "value": 2.7684
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.0262
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 3.3785
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -6.3434
+        },
+        {
+          "label": "ก.พ.",
+          "value": -13.178
+        },
+        {
+          "label": "มี.ค.",
+          "value": -16.123
+        },
+        {
+          "label": "เม.ย.",
+          "value": -12.8168
+        },
+        {
+          "label": "พ.ค.",
+          "value": -16.407
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -20.3051
+        },
+        {
+          "label": "ก.ค.",
+          "value": -8.3949
+        },
+        {
+          "label": "ส.ค.",
+          "value": -9.4913
+        },
+        {
+          "label": "ก.ย.",
+          "value": -6.5654
+        },
+        {
+          "label": "ต.ค.",
+          "value": -3.6338
+        },
+        {
+          "label": "พ.ย.",
+          "value": -7.1364
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -6.691
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.148
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.3321
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.5739
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.8182
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.9778
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.1429
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.3089
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.461
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.6184
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.7152
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.8135
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.9683
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.4508
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.8556
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.6583
+        },
+        {
+          "label": "เม.ย.",
+          "value": 1.8898
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.9731
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.969
+        },
+        {
+          "label": "ก.ค.",
+          "value": 1.7992
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.3538
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.9618
+        },
+        {
+          "label": "ต.ค.",
+          "value": 3.3667
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.4697
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.7568
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.4744
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.7926
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.4527
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.9929
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.6201
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 5.218
+        },
+        {
+          "label": "ก.ค.",
+          "value": 6.0599
+        },
+        {
+          "label": "ส.ค.",
+          "value": 7.8066
+        },
+        {
+          "label": "ก.ย.",
+          "value": 10.7908
+        },
+        {
+          "label": "ต.ค.",
+          "value": 12.7291
+        },
+        {
+          "label": "พ.ย.",
+          "value": 12.3098
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 12.7803
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.6952
+        },
+        {
+          "label": "ก.พ.",
+          "value": 7.1091
+        },
+        {
+          "label": "มี.ค.",
+          "value": 16.4492
+        },
+        {
+          "label": "เม.ย.",
+          "value": 22.1231
+        },
+        {
+          "label": "พ.ค.",
+          "value": 21.6188
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 21.236
+        },
+        {
+          "label": "ก.ค.",
+          "value": 21.6116
+        },
+        {
+          "label": "ส.ค.",
+          "value": 24.5148
+        },
+        {
+          "label": "ก.ย.",
+          "value": 38.3076
+        },
+        {
+          "label": "ต.ค.",
+          "value": 44.309
+        },
+        {
+          "label": "พ.ย.",
+          "value": 48.3841
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 54.7884
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -7.328
+        },
+        {
+          "label": "ก.พ.",
+          "value": -14.7289
+        },
+        {
+          "label": "มี.ค.",
+          "value": -16.8598
+        },
+        {
+          "label": "เม.ย.",
+          "value": -13.3183
+        },
+        {
+          "label": "พ.ค.",
+          "value": -15.8349
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -17.9777
+        },
+        {
+          "label": "ก.ค.",
+          "value": -5.143
+        },
+        {
+          "label": "ส.ค.",
+          "value": -7.5393
+        },
+        {
+          "label": "ก.ย.",
+          "value": -4.4883
+        },
+        {
+          "label": "ต.ค.",
+          "value": 0.0804
+        },
+        {
+          "label": "พ.ย.",
+          "value": -2.9522
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -2.9845
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -2.3646
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.6286
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.4698
+        },
+        {
+          "label": "เม.ย.",
+          "value": -4.9013
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.3039
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -6.8054
+        },
+        {
+          "label": "ก.ค.",
+          "value": -4.4705
+        },
+        {
+          "label": "ส.ค.",
+          "value": -3.2801
+        },
+        {
+          "label": "ก.ย.",
+          "value": 3.483
+        },
+        {
+          "label": "ต.ค.",
+          "value": 3.1639
+        },
+        {
+          "label": "พ.ย.",
+          "value": 5.3458
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 10.5936
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -5.4477
+        },
+        {
+          "label": "ก.พ.",
+          "value": -14.5106
+        },
+        {
+          "label": "มี.ค.",
+          "value": -17.1823
+        },
+        {
+          "label": "เม.ย.",
+          "value": -12.2606
+        },
+        {
+          "label": "พ.ค.",
+          "value": -15.2464
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -19.4075
+        },
+        {
+          "label": "ก.ค.",
+          "value": -7.4377
+        },
+        {
+          "label": "ส.ค.",
+          "value": -7.7457
+        },
+        {
+          "label": "ก.ย.",
+          "value": -5.5628
+        },
+        {
+          "label": "ต.ค.",
+          "value": -2.2953
+        },
+        {
+          "label": "พ.ย.",
+          "value": -5.5241
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -3.96
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -5.2915
+        },
+        {
+          "label": "ก.พ.",
+          "value": -13.1211
+        },
+        {
+          "label": "มี.ค.",
+          "value": -16.4817
+        },
+        {
+          "label": "เม.ย.",
+          "value": -11.7725
+        },
+        {
+          "label": "พ.ค.",
+          "value": -14.5591
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -18.8623
+        },
+        {
+          "label": "ก.ค.",
+          "value": -7.0382
+        },
+        {
+          "label": "ส.ค.",
+          "value": -7.3979
+        },
+        {
+          "label": "ก.ย.",
+          "value": -5.2659
+        },
+        {
+          "label": "ต.ค.",
+          "value": -2.5474
+        },
+        {
+          "label": "พ.ย.",
+          "value": -6.132
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -4.7731
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -11.659
+        },
+        {
+          "label": "ก.พ.",
+          "value": -13.2898
+        },
+        {
+          "label": "มี.ค.",
+          "value": -17.4041
+        },
+        {
+          "label": "เม.ย.",
+          "value": -15.9065
+        },
+        {
+          "label": "พ.ค.",
+          "value": -17.2126
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -22.0974
+        },
+        {
+          "label": "ก.ค.",
+          "value": -11.1452
+        },
+        {
+          "label": "ส.ค.",
+          "value": -10.1105
+        },
+        {
+          "label": "ก.ย.",
+          "value": -8.1839
+        },
+        {
+          "label": "ต.ค.",
+          "value": -6.8085
+        },
+        {
+          "label": "พ.ย.",
+          "value": -13.3798
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -14.5046
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.5673
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.8648
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.4131
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.6303
+        },
+        {
+          "label": "พ.ค.",
+          "value": -0.9857
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -2.2461
+        },
+        {
+          "label": "ก.ค.",
+          "value": -1.4656
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.9587
+        },
+        {
+          "label": "ก.ย.",
+          "value": 4.4883
+        },
+        {
+          "label": "ต.ค.",
+          "value": 5.0006
+        },
+        {
+          "label": "พ.ย.",
+          "value": 5.4487
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 7.5324
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF14",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -5.7472
+        },
+        {
+          "label": "ก.พ.",
+          "value": -11.9344
+        },
+        {
+          "label": "มี.ค.",
+          "value": -14.6694
+        },
+        {
+          "label": "เม.ย.",
+          "value": -12.1511
+        },
+        {
+          "label": "พ.ค.",
+          "value": -15.5712
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -19.463
+        },
+        {
+          "label": "ก.ค.",
+          "value": -8.884
+        },
+        {
+          "label": "ส.ค.",
+          "value": -9.5231
+        },
+        {
+          "label": "ก.ย.",
+          "value": -6.8604
+        },
+        {
+          "label": "ต.ค.",
+          "value": -4.3907
+        },
+        {
+          "label": "พ.ย.",
+          "value": -7.5596
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -7.3196
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF15",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 4.884
+        },
+        {
+          "label": "ก.พ.",
+          "value": -6.6752
+        },
+        {
+          "label": "มี.ค.",
+          "value": -20.2195
+        },
+        {
+          "label": "เม.ย.",
+          "value": -18.2875
+        },
+        {
+          "label": "พ.ค.",
+          "value": -9.6569
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.2588
+        },
+        {
+          "label": "ก.ค.",
+          "value": 3.9431
+        },
+        {
+          "label": "ส.ค.",
+          "value": 7.1541
+        },
+        {
+          "label": "ก.ย.",
+          "value": 11.0517
+        },
+        {
+          "label": "ต.ค.",
+          "value": 22.1644
+        },
+        {
+          "label": "พ.ย.",
+          "value": 14.7483
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 16.058
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF16",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.5469
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.9602
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.5319
+        },
+        {
+          "label": "เม.ย.",
+          "value": -5.4077
+        },
+        {
+          "label": "พ.ค.",
+          "value": -4.2302
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -0.3579
+        },
+        {
+          "label": "ก.ค.",
+          "value": 3.1088
+        },
+        {
+          "label": "ส.ค.",
+          "value": 16.5039
+        },
+        {
+          "label": "ก.ย.",
+          "value": 25.262
+        },
+        {
+          "label": "ต.ค.",
+          "value": 24.0943
+        },
+        {
+          "label": "พ.ย.",
+          "value": 21.7133
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 29.987
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF17",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.4254
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.7319
+        },
+        {
+          "label": "มี.ค.",
+          "value": -6.0736
+        },
+        {
+          "label": "เม.ย.",
+          "value": -5.2064
+        },
+        {
+          "label": "พ.ค.",
+          "value": 2.9276
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 6.3667
+        },
+        {
+          "label": "ก.ค.",
+          "value": 11.9233
+        },
+        {
+          "label": "ส.ค.",
+          "value": 14.0413
+        },
+        {
+          "label": "ก.ย.",
+          "value": 17.9777
+        },
+        {
+          "label": "ต.ค.",
+          "value": 23.5439
+        },
+        {
+          "label": "พ.ย.",
+          "value": 21.4515
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 24.6481
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF18",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.2036
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.8561
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.9048
+        },
+        {
+          "label": "เม.ย.",
+          "value": 3.0891
+        },
+        {
+          "label": "พ.ค.",
+          "value": 6.8422
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 11.3305
+        },
+        {
+          "label": "ก.ค.",
+          "value": 12.43
+        },
+        {
+          "label": "ส.ค.",
+          "value": 14.8484
+        },
+        {
+          "label": "ก.ย.",
+          "value": 19.6889
+        },
+        {
+          "label": "ต.ค.",
+          "value": 24.8278
+        },
+        {
+          "label": "พ.ย.",
+          "value": 20.8616
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 25.72
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF19",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 6.1435
+        },
+        {
+          "label": "ก.พ.",
+          "value": 7.1674
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.0349
+        },
+        {
+          "label": "เม.ย.",
+          "value": -0.6075
+        },
+        {
+          "label": "พ.ค.",
+          "value": 7.1122
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 7.1654
+        },
+        {
+          "label": "ก.ค.",
+          "value": 6.9401
+        },
+        {
+          "label": "ส.ค.",
+          "value": 5.1851
+        },
+        {
+          "label": "ก.ย.",
+          "value": 6.1641
+        },
+        {
+          "label": "ต.ค.",
+          "value": 6.9031
+        },
+        {
+          "label": "พ.ย.",
+          "value": 6.3401
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 8.9776
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF20",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0686
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.6266
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.0017
+        },
+        {
+          "label": "เม.ย.",
+          "value": 1.2171
+        },
+        {
+          "label": "พ.ค.",
+          "value": 1.1789
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 1.9491
+        },
+        {
+          "label": "ก.ค.",
+          "value": 2.1991
+        },
+        {
+          "label": "ส.ค.",
+          "value": 2.8604
+        },
+        {
+          "label": "ก.ย.",
+          "value": 3.1014
+        },
+        {
+          "label": "ต.ค.",
+          "value": 3.0571
+        },
+        {
+          "label": "พ.ย.",
+          "value": 3.3117
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 3.5767
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF21",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -6.8915
+        },
+        {
+          "label": "ก.พ.",
+          "value": -9.8655
+        },
+        {
+          "label": "มี.ค.",
+          "value": -13.7744
+        },
+        {
+          "label": "เม.ย.",
+          "value": -12.101
+        },
+        {
+          "label": "พ.ค.",
+          "value": -14.5971
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -17.7366
+        },
+        {
+          "label": "ก.ค.",
+          "value": -8.3767
+        },
+        {
+          "label": "ส.ค.",
+          "value": -9.2692
+        },
+        {
+          "label": "ก.ย.",
+          "value": -5.6095
+        },
+        {
+          "label": "ต.ค.",
+          "value": -4.3751
+        },
+        {
+          "label": "พ.ย.",
+          "value": -8.016
+        },
+        {
+          "label": "ธ.ค.",
+          "value": -7.681
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF22",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -1.6156
+        },
+        {
+          "label": "ก.พ.",
+          "value": -1.9873
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.4684
+        },
+        {
+          "label": "เม.ย.",
+          "value": -1.7067
+        },
+        {
+          "label": "พ.ค.",
+          "value": -2.1568
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -2.4798
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.097
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.2829
+        },
+        {
+          "label": "ก.ย.",
+          "value": 1.215
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.294
+        },
+        {
+          "label": "พ.ย.",
+          "value": 0.6515
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.0557
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF23",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.7026
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.4637
+        },
+        {
+          "label": "มี.ค.",
+          "value": -4.64
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.9504
+        },
+        {
+          "label": "พ.ค.",
+          "value": 2.2571
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 5.9064
+        },
+        {
+          "label": "ก.ค.",
+          "value": 7.403
+        },
+        {
+          "label": "ส.ค.",
+          "value": 6.0028
+        },
+        {
+          "label": "ก.ย.",
+          "value": 8.4675
+        },
+        {
+          "label": "ต.ค.",
+          "value": 11.2015
+        },
+        {
+          "label": "พ.ย.",
+          "value": 8.6107
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 9.7311
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF24",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0453
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.0927
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.2232
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.3673
+        },
+        {
+          "label": "พ.ค.",
+          "value": 0.5041
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 0.6139
+        },
+        {
+          "label": "ก.ค.",
+          "value": 0.7491
+        },
+        {
+          "label": "ส.ค.",
+          "value": 0.8641
+        },
+        {
+          "label": "ก.ย.",
+          "value": 0.9747
+        },
+        {
+          "label": "ต.ค.",
+          "value": 1.0606
+        },
+        {
+          "label": "พ.ย.",
+          "value": 1.1461
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 1.2522
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF25",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -5.355
+        },
+        {
+          "label": "ก.พ.",
+          "value": -13.1799
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.4933
+        },
+        {
+          "label": "เม.ย.",
+          "value": 2.0186
+        },
+        {
+          "label": "พ.ค.",
+          "value": 3.931
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 6.827
+        },
+        {
+          "label": "ก.ค.",
+          "value": 3.3646
+        },
+        {
+          "label": "ส.ค.",
+          "value": 1.853
+        },
+        {
+          "label": "ก.ย.",
+          "value": 2.7881
+        },
+        {
+          "label": "ต.ค.",
+          "value": 6.7542
+        },
+        {
+          "label": "พ.ย.",
+          "value": 5.3928
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.5655
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF26",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.9417
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.3596
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.1942
+        },
+        {
+          "label": "เม.ย.",
+          "value": -9.0454
+        },
+        {
+          "label": "พ.ค.",
+          "value": -4.085
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -1.1375
+        },
+        {
+          "label": "ก.ค.",
+          "value": 5.6909
+        },
+        {
+          "label": "ส.ค.",
+          "value": 17.6426
+        },
+        {
+          "label": "ก.ย.",
+          "value": 14.2813
+        },
+        {
+          "label": "ต.ค.",
+          "value": 12.7286
+        },
+        {
+          "label": "พ.ย.",
+          "value": 12.1893
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 14.7059
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF27",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.2962
+        },
+        {
+          "label": "เม.ย.",
+          "value": -7.489
+        },
+        {
+          "label": "พ.ค.",
+          "value": -4.5382
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 3.7903
+        },
+        {
+          "label": "ก.ค.",
+          "value": 4.9673
+        },
+        {
+          "label": "ส.ค.",
+          "value": 8.39
+        },
+        {
+          "label": "ก.ย.",
+          "value": 15.2268
+        },
+        {
+          "label": "ต.ค.",
+          "value": 18.8885
+        },
+        {
+          "label": "พ.ย.",
+          "value": 13.4692
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 15.0938
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF28",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.5524
+        },
+        {
+          "label": "เม.ย.",
+          "value": -2.6115
+        },
+        {
+          "label": "พ.ค.",
+          "value": 4.6154
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 8.1865
+        },
+        {
+          "label": "ก.ค.",
+          "value": 11.1723
+        },
+        {
+          "label": "ส.ค.",
+          "value": 12.0261
+        },
+        {
+          "label": "ก.ย.",
+          "value": 13.9952
+        },
+        {
+          "label": "ต.ค.",
+          "value": 15.6612
+        },
+        {
+          "label": "พ.ย.",
+          "value": 14.2954
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 15.0416
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF29",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.9481
+        },
+        {
+          "label": "เม.ย.",
+          "value": -4.4857
+        },
+        {
+          "label": "พ.ค.",
+          "value": 6.9182
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 9.4159
+        },
+        {
+          "label": "ก.ค.",
+          "value": 7.2324
+        },
+        {
+          "label": "ส.ค.",
+          "value": 9.3022
+        },
+        {
+          "label": "ก.ย.",
+          "value": 9.9805
+        },
+        {
+          "label": "ต.ค.",
+          "value": 11.4628
+        },
+        {
+          "label": "พ.ย.",
+          "value": 10.1943
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 9.3351
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF30",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": -3.6203
+        },
+        {
+          "label": "เม.ย.",
+          "value": 1.7745
+        },
+        {
+          "label": "พ.ค.",
+          "value": 12.1659
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 20.3383
+        },
+        {
+          "label": "ก.ค.",
+          "value": 22.7491
+        },
+        {
+          "label": "ส.ค.",
+          "value": 31.1434
+        },
+        {
+          "label": "ก.ย.",
+          "value": 44.7705
+        },
+        {
+          "label": "ต.ค.",
+          "value": 49.3738
+        },
+        {
+          "label": "พ.ย.",
+          "value": 43.2137
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 44.7694
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF31",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.6972
+        },
+        {
+          "label": "เม.ย.",
+          "value": -5.0828
+        },
+        {
+          "label": "พ.ค.",
+          "value": -8.9445
+        },
+        {
+          "label": "มิ.ย.",
+          "value": -8.7124
+        },
+        {
+          "label": "ก.ค.",
+          "value": -9.148
+        },
+        {
+          "label": "ส.ค.",
+          "value": -7.393
+        },
+        {
+          "label": "ก.ย.",
+          "value": -7.4983
+        },
+        {
+          "label": "ต.ค.",
+          "value": -4.2769
+        },
+        {
+          "label": "พ.ย.",
+          "value": 2.9318
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 2.1003
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF32",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.พ.",
+          "value": null
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.1422
+        },
+        {
+          "label": "เม.ย.",
+          "value": 0.4745
+        },
+        {
+          "label": "พ.ค.",
+          "value": 2.5293
+        },
+        {
+          "label": "มิ.ย.",
+          "value": 3.3354
+        },
+        {
+          "label": "ก.ค.",
+          "value": 2.7756
+        },
+        {
+          "label": "ส.ค.",
+          "value": 6.1776
+        },
+        {
+          "label": "ก.ย.",
+          "value": 7.2033
+        },
+        {
+          "label": "ต.ค.",
+          "value": 5.8972
+        },
+        {
+          "label": "พ.ย.",
+          "value": 7.0821
+        },
+        {
+          "label": "ธ.ค.",
+          "value": 5.2962
+        }
+      ]
+    }
+  ],
+  "2026": [
+    {
+      "policy_name": "MPF01",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0811
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.3156
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.1438
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF02",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.0242
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.5534
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.0108
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF03",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 5.3264
+        },
+        {
+          "label": "ก.พ.",
+          "value": 21.484
+        },
+        {
+          "label": "มี.ค.",
+          "value": 14.9747
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF04",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0758
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.1765
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.2601
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF05",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0983
+        },
+        {
+          "label": "ก.พ.",
+          "value": 1.2999
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.8724
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF06",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.5432
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.2992
+        },
+        {
+          "label": "มี.ค.",
+          "value": -3.157
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF07",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 16.4693
+        },
+        {
+          "label": "ก.พ.",
+          "value": 16.1759
+        },
+        {
+          "label": "มี.ค.",
+          "value": 3.535
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF08",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 8.5732
+        },
+        {
+          "label": "ก.พ.",
+          "value": 23.5988
+        },
+        {
+          "label": "มี.ค.",
+          "value": 19.5467
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF09",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.3242
+        },
+        {
+          "label": "ก.พ.",
+          "value": 4.3739
+        },
+        {
+          "label": "มี.ค.",
+          "value": -0.2656
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF10",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 5.4903
+        },
+        {
+          "label": "ก.พ.",
+          "value": 21.1643
+        },
+        {
+          "label": "มี.ค.",
+          "value": 16.7914
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF11",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 4.9163
+        },
+        {
+          "label": "ก.พ.",
+          "value": 21.65
+        },
+        {
+          "label": "มี.ค.",
+          "value": 16.4552
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF12",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.1875
+        },
+        {
+          "label": "ก.พ.",
+          "value": 12.622
+        },
+        {
+          "label": "มี.ค.",
+          "value": 1.9997
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF13",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.5564
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.3254
+        },
+        {
+          "label": "มี.ค.",
+          "value": -3.0866
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF14",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 4.529
+        },
+        {
+          "label": "ก.พ.",
+          "value": 16.7998
+        },
+        {
+          "label": "มี.ค.",
+          "value": 10.9847
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF15",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.2269
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.5059
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.064
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF16",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 3.6582
+        },
+        {
+          "label": "ก.พ.",
+          "value": 4.9918
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.6366
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF17",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 6.2334
+        },
+        {
+          "label": "ก.พ.",
+          "value": 8.4999
+        },
+        {
+          "label": "มี.ค.",
+          "value": 5.9139
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF18",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 11.3304
+        },
+        {
+          "label": "ก.พ.",
+          "value": 16.3555
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.1613
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF19",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 4.3915
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.7293
+        },
+        {
+          "label": "มี.ค.",
+          "value": -4.1218
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF20",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.1033
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.4571
+        },
+        {
+          "label": "มี.ค.",
+          "value": -1.0646
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF21",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 5.0682
+        },
+        {
+          "label": "ก.พ.",
+          "value": 18.1282
+        },
+        {
+          "label": "มี.ค.",
+          "value": 12.1528
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF22",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.8803
+        },
+        {
+          "label": "ก.พ.",
+          "value": 3.7722
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.2564
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF23",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 2.5506
+        },
+        {
+          "label": "ก.พ.",
+          "value": 2.7258
+        },
+        {
+          "label": "มี.ค.",
+          "value": -5.4346
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF24",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 0.0685
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.1354
+        },
+        {
+          "label": "มี.ค.",
+          "value": 0.1973
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF25",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -5.5354
+        },
+        {
+          "label": "ก.พ.",
+          "value": -3.898
+        },
+        {
+          "label": "มี.ค.",
+          "value": -18.1402
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF26",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 6.6943
+        },
+        {
+          "label": "ก.พ.",
+          "value": 7.1122
+        },
+        {
+          "label": "มี.ค.",
+          "value": -2.6648
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF27",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 7.0689
+        },
+        {
+          "label": "ก.พ.",
+          "value": 12.1851
+        },
+        {
+          "label": "มี.ค.",
+          "value": -4.2603
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF28",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -2.4963
+        },
+        {
+          "label": "ก.พ.",
+          "value": -5.7522
+        },
+        {
+          "label": "มี.ค.",
+          "value": -11.0114
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF29",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.9446
+        },
+        {
+          "label": "ก.พ.",
+          "value": -2.4137
+        },
+        {
+          "label": "มี.ค.",
+          "value": -9.6118
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF30",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 6.7178
+        },
+        {
+          "label": "ก.พ.",
+          "value": 7.9332
+        },
+        {
+          "label": "มี.ค.",
+          "value": -3.8384
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF31",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": -0.8366
+        },
+        {
+          "label": "ก.พ.",
+          "value": 0.9793
+        },
+        {
+          "label": "มี.ค.",
+          "value": -5.9202
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    },
+    {
+      "policy_name": "MPF32",
+      "risk_lvl": 0,
+      "planresult": [
+        {
+          "label": "ม.ค.",
+          "value": 1.4179
+        },
+        {
+          "label": "ก.พ.",
+          "value": 4.0695
+        },
+        {
+          "label": "มี.ค.",
+          "value": 2.0686
+        },
+        {
+          "label": "เม.ย.",
+          "value": null
+        },
+        {
+          "label": "พ.ค.",
+          "value": null
+        },
+        {
+          "label": "มิ.ย.",
+          "value": null
+        },
+        {
+          "label": "ก.ค.",
+          "value": null
+        },
+        {
+          "label": "ส.ค.",
+          "value": null
+        },
+        {
+          "label": "ก.ย.",
+          "value": null
+        },
+        {
+          "label": "ต.ค.",
+          "value": null
+        },
+        {
+          "label": "พ.ย.",
+          "value": null
+        },
+        {
+          "label": "ธ.ค.",
+          "value": null
+        }
+      ]
+    }
+  ]
+}
