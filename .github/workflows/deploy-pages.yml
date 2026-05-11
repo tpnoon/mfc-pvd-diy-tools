@@ -25,7 +25,7 @@ jobs:
           node-version: '20'
           cache: 'npm'
 
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
 
       - name: Build (production, base-href for project page)
         run: npm run build -- --configuration=production --base-href=/mfc-pvd-diy-tools/
